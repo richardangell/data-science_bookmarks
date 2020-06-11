@@ -3,3 +3,12 @@ main:
     url: /posts/  
   - title: "About"
     url: /about/
+
+bookmarks-sidebar:
+  - title: "Navigation"
+    children:
+      - title: "Child Page A1"
+        url: /about/#header1
+      - title: "Child Page A2"
+        url: /about/#header-4
+    
