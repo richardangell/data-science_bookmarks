@@ -6,9 +6,9 @@ categories:
   - Blog
 tags:
   - bookmarks
-sidebar:
-  title: "Navigation"
-  nav: bookmarks-sidebar
+# sidebar:
+#   title: "Navigation"
+#   nav: bookmarks-sidebar
 ---
 
 # header1
