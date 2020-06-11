@@ -1,6 +1,7 @@
 ---
 title: "Data Science Bookmarks"
 excerpt_separator: "<!--more-->"
+permalink: /posts/data_science_bookmarks_post/
 categories:
   - Blog
 tags:

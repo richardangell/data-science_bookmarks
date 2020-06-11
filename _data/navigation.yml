@@ -8,7 +8,7 @@ bookmarks-sidebar:
   - title: "Navigation"
     children:
       - title: "Child Page A1"
-        url: /about/#header1
+        url: /posts/data_science_bookmarks_post/#header1
       - title: "Child Page A2"
-        url: /about/#header-4
+        url: /posts/data_science_bookmarks_post/#header-4
     
