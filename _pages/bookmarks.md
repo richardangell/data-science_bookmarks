@@ -12,7 +12,7 @@ sidebar:
 
 ### Best
 
-<img src="/assets/images/Data Science__00 Readlist__Best_0.png" width="20" height="20"> [Analyzing Experiment Outcomes: Beyond Average Treatment Effects | Uber Engineering Blog](https://eng.uber.com/analyzing-experiment-outcomes/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20181114+data+nl&mkt_tok=eyJpIjoiWWpBME5URTVaRFV6TmpWayIsInQiOiIwT2h4UzRYSHRzWHdFd2pyWUZ3cUtiRStEUzNlVjB2R0NUeTRNckhJbTN3M0o1Wmp3MzFBNWZYUFBcL2o4bEwrTGpEXC9zK1NOT0FaaWVITHRkVzRzNTNUVGhpaEllaTlVQnJPdFNQZW1rWEtzS1I2RkgyekdsQ2ZXaHNmVXBRVm1zIn0%3D)
+<img src="/data-science_bookmarks/assets/images/Data Science__00 Readlist__Best_0.png" width="20" height="20"> [Analyzing Experiment Outcomes: Beyond Average Treatment Effects | Uber Engineering Blog](https://eng.uber.com/analyzing-experiment-outcomes/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20181114+data+nl&mkt_tok=eyJpIjoiWWpBME5URTVaRFV6TmpWayIsInQiOiIwT2h4UzRYSHRzWHdFd2pyWUZ3cUtiRStEUzNlVjB2R0NUeTRNckhJbTN3M0o1Wmp3MzFBNWZYUFBcL2o4bEwrTGpEXC9zK1NOT0FaaWVITHRkVzRzNTNUVGhpaEllaTlVQnJPdFNQZW1rWEtzS1I2RkgyekdsQ2ZXaHNmVXBRVm1zIn0%3D)
 https://eng.uber.com
 
 [Your Client Engagement Program Isn't Doing What You Think It Is. | Stitch Fix Technology – Multithreaded](https://multithreaded.stitchfix.com/blog/2018/11/08/bandits/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20181128+data+nl&mkt_tok=eyJpIjoiTUdSaE5qTTVaamc0TUdJNCIsInQiOiJ2dFpHVnFqUlQweDh5QkZhbU5VQlpFeG5QNnVOeUM0UTVSRk1QOUJaV25ObHNJakM0NWVVU3FueStrdTI2bFVmY3gxSG5nRVVOWFRaYXJ3WUphcEZyMFZNVWY3RWhpYWw1b2ZzUGYwQlJRWjdFXC90eGR6NGlOVkVhOUJiNG5zK24ifQ%3D%3D)
@@ -26,7 +26,7 @@ https://www.youtube.com
 [Jake VanderPlas The Python Visualization Landscape PyCon 2017 - YouTube](https://www.youtube.com/watch?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_133&v=FytuB8nFHPQ)
 https://www.youtube.com
 
-<img src="/assets/images/Data Science__00 Readlist__Watchlist_0.png" width="20" height="20"> [Beyond word2vec: GloVe, fastText, StarSpace - Konstantinos Perifanos - YouTube](https://www.youtube.com/watch?v=6xPnEh_tJEc)
+<img src="/data-science_bookmarks/assets/images/Data Science__00 Readlist__Watchlist_0.png" width="20" height="20"> [Beyond word2vec: GloVe, fastText, StarSpace - Konstantinos Perifanos - YouTube](https://www.youtube.com/watch?v=6xPnEh_tJEc)
 https://www.youtube.com
 
 [But what is a Fourier series? From heat flow to circle drawings | DE4 - YouTube](https://www.youtube.com/watch?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_241&v=r6sGWTCMz2k)
@@ -122,7 +122,7 @@ https://stablemarkets.wordpress.com
 [Winning solutions of kaggle competitions](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions?utm_medium=email&utm_source=mailchimp&utm_campaign=datanotes-20180726)
 https://www.kaggle.com
 
-<img src="/assets/images/Data Science__00 Readlist_0.png" width="20" height="20"> [Quantitative Testing with Concept Activation Vectors (TCAV) [ICML 2018]](https://github.com/tensorflow/tcav)
+<img src="/data-science_bookmarks/assets/images/Data Science__00 Readlist_0.png" width="20" height="20"> [Quantitative Testing with Concept Activation Vectors (TCAV) [ICML 2018]](https://github.com/tensorflow/tcav)
 https://github.com
 
 [Survival Models](http://data.princeton.edu/wws509/notes/c7.pdf)
@@ -191,7 +191,7 @@ https://arxiv.org
 [10 common security gotchas in Python and how to avoid them](https://hackernoon.com/10-common-security-gotchas-in-python-and-how-to-avoid-them-e19fbe265e03)
 https://hackernoon.com
 
-<img src="/assets/images/Data Science__00 Readlist_1.png" width="20" height="20"> [Ondřej Kokeš on Twitter: "Triviální progress bary v Pythonu, daj se udělat z libovolný iterable. Moje včerejší prezentace z pražského Pyva. https://t.co/GVsnChol5f"](https://mobile.twitter.com/kondrej/status/1042674734608068608?s=21)
+<img src="/data-science_bookmarks/assets/images/Data Science__00 Readlist_1.png" width="20" height="20"> [Ondřej Kokeš on Twitter: "Triviální progress bary v Pythonu, daj se udělat z libovolný iterable. Moje včerejší prezentace z pražského Pyva. https://t.co/GVsnChol5f"](https://mobile.twitter.com/kondrej/status/1042674734608068608?s=21)
 https://mobile.twitter.com
 
 [Treelite : model compiler for decision tree ensembles — treelite 0.32 documentation](https://treelite.readthedocs.io/en/latest/)
@@ -263,7 +263,7 @@ https://jeffmacaluso.github.io
 [Christopher Wolfram - The Code Behind the Arrival - YouTube](https://www.youtube.com/watch?v=8N6HT8hzUCA)
 https://www.youtube.com
 
-<img src="/assets/images/Data Science__00 Readlist_2.png" width="20" height="20"> [Minimally Sufficient Pandas – Dunder Data – Medium](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
+<img src="/data-science_bookmarks/assets/images/Data Science__00 Readlist_2.png" width="20" height="20"> [Minimally Sufficient Pandas – Dunder Data – Medium](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
 https://medium.com
 
 [How to build analytic products in an age when data privacy has become critical - O'Reilly Media](https://www.oreilly.com/ideas/how-to-build-analytic-products-in-an-age-when-data-privacy-has-become-critical?utm_medium=email&utm_source=optin&utm_campaign=awareness&utm_content=20180509+data+nl&mkt_tok=eyJpIjoiWXpRd09EazNORGsxTUdJeSIsInQiOiJnNCs0TEVJOEZRNWFLbzViQmdaNFBsNzVRMCs0SWQwOFhPYjhVditXYjFrXC9yTDFGdFRCSFRscEVBOGJcLzR3Zjltaml0Z2RWUUtjNWUzeDVlS0F1RGpPQnc3aTYrRWpqTUJzZ2NqWHVuRlRNSHR0SzZNdzVKdk1HbTIzeURybk9PIn0%3D)
@@ -272,7 +272,7 @@ https://www.oreilly.com
 [3 facts about time series forecasting that surprise experienced machine learning practitioners.](https://towardsdatascience.com/3-facts-about-time-series-forecasting-that-surprise-experienced-machine-learning-practitioners-69c18ee89387?mkt_tok=eyJpIjoiTXpZMlpXUmhPVE13T0RkbSIsInQiOiJmeGhEd1dcL1ZBSTZhRGdQWXR2enB5bCtsbHVXMmt5NGp2aDF5VnZwWFlubTBVaWt6RmpGaTd6RUF6VHJwd3pYYk5uWGJ2a0pKYzZBQ3lHTWJxMUUyNWNtU3dMY05mb1JLYUVVQURLT3RIekV6TXZ1SW8rWHFlQ3k2YkFSSkNsZjIifQ%3D%3D)
 https://towardsdatascience.com
 
-<img src="/assets/images/Data Science__00 Readlist_3.png" width="20" height="20"> [A bird-eye view of optimization algorithms](http://fa.bianp.net/teaching/2018/eecs227at/)
+<img src="/data-science_bookmarks/assets/images/Data Science__00 Readlist_3.png" width="20" height="20"> [A bird-eye view of optimization algorithms](http://fa.bianp.net/teaching/2018/eecs227at/)
 http://fa.bianp.net
 
 [[1904.03867] Quantifying Interpretability of Arbitrary Machine Learning Models Through Functional Decomposition](https://arxiv.org/abs/1904.03867)
@@ -326,16 +326,16 @@ http://www.jennwv.com
 [Aequitas – Center for Data Science and Public Policy](https://dsapp.uchicago.edu/projects/aequitas/)
 https://dsapp.uchicago.edu
 
-<img src="/assets/images/Data Science__00 Readlist_4.png" width="20" height="20"> [afshinea/stanford-cs-221-artificial-intelligence: VIP cheatsheets for Stanford's CS 221 Artificial Intelligence](https://github.com/afshinea/stanford-cs-221-artificial-intelligence)
+<img src="/data-science_bookmarks/assets/images/Data Science__00 Readlist_4.png" width="20" height="20"> [afshinea/stanford-cs-221-artificial-intelligence: VIP cheatsheets for Stanford's CS 221 Artificial Intelligence](https://github.com/afshinea/stanford-cs-221-artificial-intelligence)
 https://github.com
 
-<img src="/assets/images/Data Science__00 Readlist_5.png" width="20" height="20"> [The Remarkable world of Recommender Systems – Towards Data Science](https://towardsdatascience.com/the-remarkable-world-of-recommender-systems-bff4b9cbe6a7?mkt_tok=eyJpIjoiTURrMlpHUmtNV1EwTXpJdyIsInQiOiJ2MXB4QzcwdnhmZUVRN2NzMSt0Zk5PUGpWZHlCbnV2OUFET2VQMUQ4ZmhWYVhnZFM5RXltYWtXbU5KZ0lackgrODgrS2lkODJEbUVUME84SFRvYW5Md01iZnI0QnFxVGZ2ZFNhMExoeUdVUDRRSGhzM1EwbHFObHdjXC9oRUxFMW4ifQ%3D%3D)
+<img src="/data-science_bookmarks/assets/images/Data Science__00 Readlist_5.png" width="20" height="20"> [The Remarkable world of Recommender Systems – Towards Data Science](https://towardsdatascience.com/the-remarkable-world-of-recommender-systems-bff4b9cbe6a7?mkt_tok=eyJpIjoiTURrMlpHUmtNV1EwTXpJdyIsInQiOiJ2MXB4QzcwdnhmZUVRN2NzMSt0Zk5PUGpWZHlCbnV2OUFET2VQMUQ4ZmhWYVhnZFM5RXltYWtXbU5KZ0lackgrODgrS2lkODJEbUVUME84SFRvYW5Md01iZnI0QnFxVGZ2ZFNhMExoeUdVUDRRSGhzM1EwbHFObHdjXC9oRUxFMW4ifQ%3D%3D)
 https://towardsdatascience.com
 
-<img src="/assets/images/Data Science__00 Readlist_6.png" width="20" height="20"> [Python Logging: A Stroll Through the Source Code – Real Python](https://realpython.com/python-logging-source-code/)
+<img src="/data-science_bookmarks/assets/images/Data Science__00 Readlist_6.png" width="20" height="20"> [Python Logging: A Stroll Through the Source Code – Real Python](https://realpython.com/python-logging-source-code/)
 https://realpython.com
 
-<img src="/assets/images/Data Science__00 Readlist_7.png" width="20" height="20"> [GitHub - cuplv/DPDEBUGGER: Differential Performance Debugging with Discriminant Regression Trees](https://github.com/cuplv/DPDEBUGGER)
+<img src="/data-science_bookmarks/assets/images/Data Science__00 Readlist_7.png" width="20" height="20"> [GitHub - cuplv/DPDEBUGGER: Differential Performance Debugging with Discriminant Regression Trees](https://github.com/cuplv/DPDEBUGGER)
 https://github.com
 
 [Comprehensive, User-Friendly Toolkit for Probing Interactions • interactions](https://interactions.jacob-long.com/index.html)
@@ -344,7 +344,7 @@ https://interactions.jacob-long.com
 [nvidia-research-mingyuliu.com](http://nvidia-research-mingyuliu.com/gaugan)
 http://nvidia-research-mingyuliu.com
 
-<img src="/assets/images/Data Science__00 Readlist_8.png" width="20" height="20"> [Adversarial example using FGSM  |  TensorFlow Core  |  TensorFlow](https://www.tensorflow.org/beta/tutorials/generative/adversarial_fgsm)
+<img src="/data-science_bookmarks/assets/images/Data Science__00 Readlist_8.png" width="20" height="20"> [Adversarial example using FGSM  |  TensorFlow Core  |  TensorFlow](https://www.tensorflow.org/beta/tutorials/generative/adversarial_fgsm)
 https://www.tensorflow.org
 
 [Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/pdf/1905.09272.pdf)
@@ -359,7 +359,7 @@ https://arxiv.org
 [Introducing MASS – A pre-training method that outperforms BERT and GPT in sequence to sequence language generation tasks - Microsoft Research](https://www.microsoft.com/en-us/research/blog/introducing-mass-a-pre-training-method-that-outperforms-bert-and-gpt-in-sequence-to-sequence-language-generation-tasks/)
 https://www.microsoft.com
 
-<img src="/assets/images/Data Science__00 Readlist_9.png" width="20" height="20"> [Sales Forecasting Using Facebook’s Prophet](https://www.kdnuggets.com/2018/11/sales-forecasting-using-prophet.html)
+<img src="/data-science_bookmarks/assets/images/Data Science__00 Readlist_9.png" width="20" height="20"> [Sales Forecasting Using Facebook’s Prophet](https://www.kdnuggets.com/2018/11/sales-forecasting-using-prophet.html)
 https://www.kdnuggets.com
 
 ## Blogs
@@ -367,10 +367,10 @@ https://www.kdnuggets.com
 [Revolutions](http://blog.revolutionanalytics.com/)
 http://blog.revolutionanalytics.com
 
-<img src="/assets/images/Data Science__Blogs_0.png" width="20" height="20"> [Cortana Intelligence and Machine Learning Blog](https://blogs.technet.microsoft.com/machinelearning/)
+<img src="/data-science_bookmarks/assets/images/Data Science__Blogs_0.png" width="20" height="20"> [Cortana Intelligence and Machine Learning Blog](https://blogs.technet.microsoft.com/machinelearning/)
 https://blogs.technet.microsoft.com
 
-<img src="/assets/images/Data Science__Blogs_1.png" width="20" height="20"> [PyBloggers](http://www.pybloggers.com/)
+<img src="/data-science_bookmarks/assets/images/Data Science__Blogs_1.png" width="20" height="20"> [PyBloggers](http://www.pybloggers.com/)
 http://www.pybloggers.com
 
 [Research Blog](https://research.googleblog.com/)
@@ -385,7 +385,7 @@ http://googlecloudplatform.blogspot.sg
 [Blog | Stitch Fix Technology – Multithreaded](http://multithreaded.stitchfix.com/blog/)
 http://multithreaded.stitchfix.com
 
-<img src="/assets/images/Data Science__Blogs_2.png" width="20" height="20"> [R-bloggers | R news and tutorials contributed by (573) R bloggers](http://www.r-bloggers.com/)
+<img src="/data-science_bookmarks/assets/images/Data Science__Blogs_2.png" width="20" height="20"> [R-bloggers | R news and tutorials contributed by (573) R bloggers](http://www.r-bloggers.com/)
 http://www.r-bloggers.com
 
 [DataTau](http://www.datatau.com/)
@@ -418,28 +418,28 @@ http://sebastianraschka.com
 [Hacker News](https://news.ycombinator.com/)
 https://news.ycombinator.com
 
-<img src="/assets/images/Data Science__Blogs_3.png" width="20" height="20"> [Significance magazine](https://www.significancemagazine.com/)
+<img src="/data-science_bookmarks/assets/images/Data Science__Blogs_3.png" width="20" height="20"> [Significance magazine](https://www.significancemagazine.com/)
 https://www.significancemagazine.com
 
-<img src="/assets/images/Data Science__Blogs_4.png" width="20" height="20"> [Freakonometrics | An Open Lab-Notebook Experiment](http://freakonometrics.hypotheses.org/)
+<img src="/data-science_bookmarks/assets/images/Data Science__Blogs_4.png" width="20" height="20"> [Freakonometrics | An Open Lab-Notebook Experiment](http://freakonometrics.hypotheses.org/)
 http://freakonometrics.hypotheses.org
 
 [The KDnuggets Observer](http://paper.li/kdnuggets/1471640633#/)
 http://paper.li
 
-<img src="/assets/images/Data Science__Blogs_5.png" width="20" height="20"> [Simply Statistics](https://simplystatistics.org/)
+<img src="/data-science_bookmarks/assets/images/Data Science__Blogs_5.png" width="20" height="20"> [Simply Statistics](https://simplystatistics.org/)
 https://simplystatistics.org
 
-<img src="/assets/images/Data Science__Blogs_6.png" width="20" height="20"> [Blog – That's so Random](https://edwinth.github.io/blog/)
+<img src="/data-science_bookmarks/assets/images/Data Science__Blogs_6.png" width="20" height="20"> [Blog – That's so Random](https://edwinth.github.io/blog/)
 https://edwinth.github.io
 
-<img src="/assets/images/Data Science__Blogs_7.png" width="20" height="20"> [Distill — Latest articles about machine learning](http://distill.pub/)
+<img src="/data-science_bookmarks/assets/images/Data Science__Blogs_7.png" width="20" height="20"> [Distill — Latest articles about machine learning](http://distill.pub/)
 http://distill.pub
 
-<img src="/assets/images/Data Science__Blogs_8.png" width="20" height="20"> [Blog — Jill Wetzler](https://www.jillwetzler.com/blog/)
+<img src="/data-science_bookmarks/assets/images/Data Science__Blogs_8.png" width="20" height="20"> [Blog — Jill Wetzler](https://www.jillwetzler.com/blog/)
 https://www.jillwetzler.com
 
-<img src="/assets/images/Data Science__Blogs_9.png" width="20" height="20"> [Data Science Blog by Domino - Data Science Trends, Tools, and Best Practices](https://blog.dominodatalab.com/)
+<img src="/data-science_bookmarks/assets/images/Data Science__Blogs_9.png" width="20" height="20"> [Data Science Blog by Domino - Data Science Trends, Tools, and Best Practices](https://blog.dominodatalab.com/)
 https://blog.dominodatalab.com
 
 [Blog Archive - Trey Hunner](https://treyhunner.com/blog/archives/)
@@ -470,25 +470,25 @@ https://socviz.co
 [Top 50 matplotlib Visualizations - The Master Plots (w/ Full Python Code) | ML+](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20181219_data_nl&mkt_tok=eyJpIjoiTVRoaFlXWXhaV1ZsWldaaSIsInQiOiJxMHBcL3VcL0MwS2RDTnVPOW90SjZ4S0wyXC9hN2JMK3A0d0Y3alF3YjBRNUczS3FweUZTMFdZN0tqd1J4M1ViQlwvR2hiXC9xQUpTUVBBUktWc0ZkbUZ4bTVJZXFzdVhVWUY3d3picHgzTnNjaWQ2XC9TQW5CXC9zMnM5Ykg2WUxkMTd4eisifQ%3D%3D)
 https://www.machinelearningplus.com
 
-<img src="/assets/images/Data Science__Data Visualisation_0.png" width="20" height="20"> [Welcome to Bokeh — Bokeh 1.1.0 documentation](https://bokeh.pydata.org/en/latest/)
+<img src="/data-science_bookmarks/assets/images/Data Science__Data Visualisation_0.png" width="20" height="20"> [Welcome to Bokeh — Bokeh 1.1.0 documentation](https://bokeh.pydata.org/en/latest/)
 https://bokeh.pydata.org
 
-<img src="/assets/images/Data Science__Data Visualisation_1.png" width="20" height="20"> [HoloViews — HoloViews](http://holoviews.org/index.html)
+<img src="/data-science_bookmarks/assets/images/Data Science__Data Visualisation_1.png" width="20" height="20"> [HoloViews — HoloViews](http://holoviews.org/index.html)
 http://holoviews.org
 
 [Visual Information Theory -- colah's blog](http://colah.github.io/posts/2015-09-Visual-Information/)
 http://colah.github.io
 
-<img src="/assets/images/Data Science__Data Visualisation_2.png" width="20" height="20"> [tkrabel/edaviz: edaviz - Python library for Exploratory Data Analysis and Visualization in Jupyter Notebook or Jupyter Lab](https://github.com/tkrabel/edaviz?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_238)
+<img src="/data-science_bookmarks/assets/images/Data Science__Data Visualisation_2.png" width="20" height="20"> [tkrabel/edaviz: edaviz - Python library for Exploratory Data Analysis and Visualization in Jupyter Notebook or Jupyter Lab](https://github.com/tkrabel/edaviz?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_238)
 https://github.com
 
 [Quick Start — yellowbrick 0.9.1 documentation](https://www.scikit-yb.org/en/latest/quickstart.html)
 https://www.scikit-yb.org
 
-<img src="/assets/images/Data Science__Data Visualisation_3.png" width="20" height="20"> [Example Gallery — Altair 3.2.0 documentation](https://altair-viz.github.io/gallery/index.html)
+<img src="/data-science_bookmarks/assets/images/Data Science__Data Visualisation_3.png" width="20" height="20"> [Example Gallery — Altair 3.2.0 documentation](https://altair-viz.github.io/gallery/index.html)
 https://altair-viz.github.io
 
-<img src="/assets/images/Data Science__Data Visualisation_4.png" width="20" height="20"> [altair-viz/altair: Declarative statistical visualization library for Python](https://github.com/altair-viz/altair)
+<img src="/data-science_bookmarks/assets/images/Data Science__Data Visualisation_4.png" width="20" height="20"> [altair-viz/altair: Declarative statistical visualization library for Python](https://github.com/altair-viz/altair)
 https://github.com
 
 [GitHub - sauercrowd/altair-dashboard: A simple solution to create dashboards on the fly with altair charts](https://github.com/sauercrowd/altair-dashboard)
@@ -496,7 +496,7 @@ https://github.com
 
 ### Altair
 
-<img src="/assets/images/Data Science__Data Visualisation__Altair_0.png" width="20" height="20"> [Layering 3 plots, with 2 plots sharing the y-axis · Issue #873 · altair-viz/altair](https://github.com/altair-viz/altair/issues/873)
+<img src="/data-science_bookmarks/assets/images/Data Science__Data Visualisation__Altair_0.png" width="20" height="20"> [Layering 3 plots, with 2 plots sharing the y-axis · Issue #873 · altair-viz/altair](https://github.com/altair-viz/altair/issues/873)
 https://github.com
 
 ## Ethics and Fairness
@@ -531,7 +531,7 @@ https://ethical.institute
 [Data Ethics Framework - GOV.UK](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework)
 https://www.gov.uk
 
-<img src="/assets/images/Data Science__Ethics and Fairness_0.png" width="20" height="20"> [Increasing Trust in AI Services through Supplier's Declarations of Conformity- Artificial intelligence - IBM Research](https://www.research.ibm.com/artificial-intelligence/publications/paper/?id=SDoCs-for-AI-Services)
+<img src="/data-science_bookmarks/assets/images/Data Science__Ethics and Fairness_0.png" width="20" height="20"> [Increasing Trust in AI Services through Supplier's Declarations of Conformity- Artificial intelligence - IBM Research](https://www.research.ibm.com/artificial-intelligence/publications/paper/?id=SDoCs-for-AI-Services)
 https://www.research.ibm.com
 
 [CDEI-Call-for-Evidence-Bias-Summary-of-responses-October2019.pdf](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/838426/CDEI-Call-for-Evidence-Bias-Summary-of-responses-October2019.pdf)
@@ -553,7 +553,7 @@ https://assets.publishing.service.gov.uk
 
 ### Shapley Values
 
-<img src="/assets/images/Data Science__Interpretability__Shapley Values_0.png" width="20" height="20"> [slundberg/shap: A unified approach to explain the output of any machine learning model.](https://github.com/slundberg/shap)
+<img src="/data-science_bookmarks/assets/images/Data Science__Interpretability__Shapley Values_0.png" width="20" height="20"> [slundberg/shap: A unified approach to explain the output of any machine learning model.](https://github.com/slundberg/shap)
 https://github.com
 
 [redichh/ShapleyR: Package for a nice and smoothe usage of the shapley value for mlr](https://github.com/redichh/ShapleyR)
@@ -636,7 +636,7 @@ https://github.com
 [Beware Default Random Forest Importances](https://explained.ai/rf-importance/index.html)
 https://explained.ai
 
-<img src="/assets/images/Data Science__Interpretability_0.png" width="20" height="20"> [AppliedDataSciencePartners/xgboostExplainer: An R package that makes xgboost models fully interpretable](https://github.com/AppliedDataSciencePartners/xgboostExplainer)
+<img src="/data-science_bookmarks/assets/images/Data Science__Interpretability_0.png" width="20" height="20"> [AppliedDataSciencePartners/xgboostExplainer: An R package that makes xgboost models fully interpretable](https://github.com/AppliedDataSciencePartners/xgboostExplainer)
 https://github.com
 
 [TeamHG-Memex/eli5: A library for debugging/inspecting machine learning classifiers and explaining their predictions](https://github.com/TeamHG-Memex/eli5)
@@ -645,10 +645,10 @@ https://github.com
 [Model interpretability - Azure Machine Learning service | Microsoft Docs](https://docs.microsoft.com/en-us/azure/machine-learning/service/machine-learning-interpretability-explainability)
 https://docs.microsoft.com
 
-<img src="/assets/images/Data Science__Interpretability_1.png" width="20" height="20"> [interpret/README.md at master · microsoft/interpret · GitHub](https://github.com/microsoft/interpret/blob/master/README.md)
+<img src="/data-science_bookmarks/assets/images/Data Science__Interpretability_1.png" width="20" height="20"> [interpret/README.md at master · microsoft/interpret · GitHub](https://github.com/microsoft/interpret/blob/master/README.md)
 https://github.com
 
-<img src="/assets/images/Data Science__Interpretability_2.png" width="20" height="20"> [https://twitter.com/christophmolnar/status/1129366731657535488?s=12](https://twitter.com/christophmolnar/status/1129366731657535488?s=12)
+<img src="/data-science_bookmarks/assets/images/Data Science__Interpretability_2.png" width="20" height="20"> [https://twitter.com/christophmolnar/status/1129366731657535488?s=12](https://twitter.com/christophmolnar/status/1129366731657535488?s=12)
 https://twitter.com
 
 [Goals — Alibi 0.2.2 documentation](https://docs.seldon.io/projects/alibi/en/v0.2.2/)
@@ -662,16 +662,16 @@ https://docs.microsoft.com
 
 ## Presentation Material
 
-<img src="/assets/images/Data Science__Presentation Material_0.png" width="20" height="20"> [ML Hipster on Twitter: "… and that concludes Machine Learning 101. Now, go forth and apply what you've learned to real data! http://t.co/D6wSKgdjeM"](https://twitter.com/ml_hipster/status/633954383542128640)
+<img src="/data-science_bookmarks/assets/images/Data Science__Presentation Material_0.png" width="20" height="20"> [ML Hipster on Twitter: "… and that concludes Machine Learning 101. Now, go forth and apply what you've learned to real data! http://t.co/D6wSKgdjeM"](https://twitter.com/ml_hipster/status/633954383542128640)
 https://twitter.com
 
-<img src="/assets/images/Data Science__Presentation Material_1.png" width="20" height="20"> [🕸 ☠️ Katie Chironis 🎃 👻 on Twitter: "the three stages of game engineering: 1. oh, no. we'd never do it like that. there are much smarter and more efficient ways to do that thing. 2. okay, we'll do it the horrible way, but just for now. JUST FOR NOW. you hear me, team? 3. the horrible way is our life now"](https://mobile.twitter.com/kchironis/status/1047566701334675456?s=21)
+<img src="/data-science_bookmarks/assets/images/Data Science__Presentation Material_1.png" width="20" height="20"> [🕸 ☠️ Katie Chironis 🎃 👻 on Twitter: "the three stages of game engineering: 1. oh, no. we'd never do it like that. there are much smarter and more efficient ways to do that thing. 2. okay, we'll do it the horrible way, but just for now. JUST FOR NOW. you hear me, team? 3. the horrible way is our life now"](https://mobile.twitter.com/kchironis/status/1047566701334675456?s=21)
 https://mobile.twitter.com
 
-<img src="/assets/images/Data Science__Presentation Material_2.png" width="20" height="20"> [Dave Lee on Twitter: "This restaurant has their menu displayed using flatscreen TVs, but have stuck new prices on with tape."](https://twitter.com/daveleebbc/status/1102359402151985152?s=12)
+<img src="/data-science_bookmarks/assets/images/Data Science__Presentation Material_2.png" width="20" height="20"> [Dave Lee on Twitter: "This restaurant has their menu displayed using flatscreen TVs, but have stuck new prices on with tape."](https://twitter.com/daveleebbc/status/1102359402151985152?s=12)
 https://twitter.com
 
-<img src="/assets/images/Data Science__Presentation Material_3.png" width="20" height="20"> [https://twitter.com/maritvandijk77/status/1129286692169555968?s=12](https://twitter.com/maritvandijk77/status/1129286692169555968?s=12)
+<img src="/data-science_bookmarks/assets/images/Data Science__Presentation Material_3.png" width="20" height="20"> [https://twitter.com/maritvandijk77/status/1129286692169555968?s=12](https://twitter.com/maritvandijk77/status/1129286692169555968?s=12)
 https://twitter.com
 
 ## Projects
@@ -699,28 +699,28 @@ https://gist.github.com
 [GitHub - 4A47/liveodds: A small library for live UK/IRE horse racing odds and runner information.](https://github.com/4A47/liveodds)
 https://github.com
 
-<img src="/assets/images/Data Science__Projects__Betting_0.png" width="20" height="20"> [[1710.02824] Beating the bookies with their own numbers - and how the online sports betting market is rigged](https://arxiv.org/abs/1710.02824)
+<img src="/data-science_bookmarks/assets/images/Data Science__Projects__Betting_0.png" width="20" height="20"> [[1710.02824] Beating the bookies with their own numbers - and how the online sports betting market is rigged](https://arxiv.org/abs/1710.02824)
 https://arxiv.org
 
-<img src="/assets/images/Data Science__Projects__Betting_1.png" width="20" height="20"> [‘Making big bucks’ with a data-driven sports betting strategy](https://towardsdatascience.com/making-big-bucks-with-a-data-driven-sports-betting-strategy-6c21a6869171)
+<img src="/data-science_bookmarks/assets/images/Data Science__Projects__Betting_1.png" width="20" height="20"> [‘Making big bucks’ with a data-driven sports betting strategy](https://towardsdatascience.com/making-big-bucks-with-a-data-driven-sports-betting-strategy-6c21a6869171)
 https://towardsdatascience.com
 
-<img src="/assets/images/Data Science__Projects__Betting_2.png" width="20" height="20"> [Betting on the English Premier League - Towards Data Science](https://towardsdatascience.com/betting-on-the-english-premier-league-making-money-with-machine-learning-fb6938760c64)
+<img src="/data-science_bookmarks/assets/images/Data Science__Projects__Betting_2.png" width="20" height="20"> [Betting on the English Premier League - Towards Data Science](https://towardsdatascience.com/betting-on-the-english-premier-league-making-money-with-machine-learning-fb6938760c64)
 https://towardsdatascience.com
 
-<img src="/assets/images/Data Science__Projects__Betting_3.png" width="20" height="20"> [EPL-Betting/EPL Match Results DF.ipynb at master · nhcamp/EPL-Betting](https://github.com/nhcamp/EPL-Betting/blob/master/EPL%20Match%20Results%20DF.ipynb)
+<img src="/data-science_bookmarks/assets/images/Data Science__Projects__Betting_3.png" width="20" height="20"> [EPL-Betting/EPL Match Results DF.ipynb at master · nhcamp/EPL-Betting](https://github.com/nhcamp/EPL-Betting/blob/master/EPL%20Match%20Results%20DF.ipynb)
 https://github.com
 
 [England Football Results Betting Odds | Premiership Results & Betting Odds](http://www.football-data.co.uk/englandm.php)
 http://www.football-data.co.uk
 
-<img src="/assets/images/Data Science__Projects__Betting_4.png" width="20" height="20"> [Bestbetting odds comparison | Premier League football odds | Horse Racing odds | Free Bets | FA Cup | Super Bowl LIV | 6 Nations](http://odds.bestbetting.com/)
+<img src="/data-science_bookmarks/assets/images/Data Science__Projects__Betting_4.png" width="20" height="20"> [Bestbetting odds comparison | Premier League football odds | Horse Racing odds | Free Bets | FA Cup | Super Bowl LIV | 6 Nations](http://odds.bestbetting.com/)
 http://odds.bestbetting.com
 
-<img src="/assets/images/Data Science__Projects__Betting_5.png" width="20" height="20"> [The Beautiful Game: Predicting the Premier League with a random model](https://towardsdatascience.com/o-jogo-bonito-predicting-the-premier-league-with-a-random-model-1b02fa3a7e5a)
+<img src="/data-science_bookmarks/assets/images/Data Science__Projects__Betting_5.png" width="20" height="20"> [The Beautiful Game: Predicting the Premier League with a random model](https://towardsdatascience.com/o-jogo-bonito-predicting-the-premier-league-with-a-random-model-1b02fa3a7e5a)
 https://towardsdatascience.com
 
-<img src="/assets/images/Data Science__Projects__Betting_6.png" width="20" height="20"> [nhcamp/EPL-Betting](https://github.com/nhcamp/EPL-Betting)
+<img src="/data-science_bookmarks/assets/images/Data Science__Projects__Betting_6.png" width="20" height="20"> [nhcamp/EPL-Betting](https://github.com/nhcamp/EPL-Betting)
 https://github.com
 
 ### Dog Monitor
@@ -844,7 +844,7 @@ https://towardsdatascience.com
 [Unveiling Mathematics behind XGBoost – Ajit Samudrala – Medium](https://medium.com/@samudralaajit/unveiling-mathematics-behind-xgboost-c7f1b8201e2a)
 https://medium.com
 
-<img src="/assets/images/Data Science__Projects_0.png" width="20" height="20"> [jupyter_contrib_nbextensions/src/jupyter_contrib_nbextensions/nbextensions/varInspector at master · ipython-contrib/jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions/tree/master/src/jupyter_contrib_nbextensions/nbextensions/varInspector)
+<img src="/data-science_bookmarks/assets/images/Data Science__Projects_0.png" width="20" height="20"> [jupyter_contrib_nbextensions/src/jupyter_contrib_nbextensions/nbextensions/varInspector at master · ipython-contrib/jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions/tree/master/src/jupyter_contrib_nbextensions/nbextensions/varInspector)
 https://github.com
 
 ## Resources
@@ -928,7 +928,7 @@ http://perso.ens-lyon.fr
 [Bump Hunting in High Dimensional Data](http://statweb.stanford.edu/~jhf/ftp/prim.pdf)
 http://statweb.stanford.edu
 
-<img src="/assets/images/Data Science__Resources__Techniques__Bump Hunting_0.png" width="20" height="20"> [Home · jedazard/PRIMsrc Wiki](https://github.com/jedazard/PRIMsrc/wiki)
+<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Bump Hunting_0.png" width="20" height="20"> [Home · jedazard/PRIMsrc Wiki](https://github.com/jedazard/PRIMsrc/wiki)
 https://github.com
 
 [The Hunting of the Bump:  On Maximizing Statistical Discrepancy](https://www.cs.utah.edu/~jeffp/papers/stat-disc-SODA06.pdf)
@@ -953,13 +953,13 @@ https://arxiv.org
 [GitHub - catboost/catboost: CatBoost is an open-source gradient boosting on decision trees library with categorical features support out of the box for Python, R](https://github.com/catboost/catboost)
 https://github.com
 
-<img src="/assets/images/Data Science__Resources__Techniques__Gradient Boosted Machines_0.png" width="20" height="20"> [GitHub - Microsoft/LightGBM: A fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks. It is under the umbrella of](https://github.com/Microsoft/LightGBM)
+<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Gradient Boosted Machines_0.png" width="20" height="20"> [GitHub - Microsoft/LightGBM: A fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks. It is under the umbrella of](https://github.com/Microsoft/LightGBM)
 https://github.com
 
 [GitHub - svenpeter42/LightGBM-CEGB: Fork of Microsoft/LightGBM to include support for the CEGB (Cost Efficient Gradient Boosting) algorithm. Original repository at https://github.com/Microsoft/LightGBM](https://github.com/svenpeter42/LightGBM-CEGB)
 https://github.com
 
-<img src="/assets/images/Data Science__Resources__Techniques__Gradient Boosted Machines_1.png" width="20" height="20"> [GitHub - benedekrozemberczki/awesome-decision-tree-papers: A collection of research papers on decision, classification and regression trees with implementations.](https://github.com/benedekrozemberczki/awesome-decision-tree-papers?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_234)
+<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Gradient Boosted Machines_1.png" width="20" height="20"> [GitHub - benedekrozemberczki/awesome-decision-tree-papers: A collection of research papers on decision, classification and regression trees with implementations.](https://github.com/benedekrozemberczki/awesome-decision-tree-papers?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_234)
 https://github.com
 
 #### Imputation
@@ -985,13 +985,13 @@ https://arxiv.org
 
 #### Natural Language Processing
 
-<img src="/assets/images/Data Science__Resources__Techniques__Natural Language Processing_0.png" width="20" height="20"> [A Review of the Neural History of Natural Language Processing - AYLIEN](http://blog.aylien.com/a-review-of-the-recent-history-of-natural-language-processing/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_203)
+<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Natural Language Processing_0.png" width="20" height="20"> [A Review of the Neural History of Natural Language Processing - AYLIEN](http://blog.aylien.com/a-review-of-the-recent-history-of-natural-language-processing/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_203)
 http://blog.aylien.com
 
-<img src="/assets/images/Data Science__Resources__Techniques__Natural Language Processing_1.png" width="20" height="20"> [tf–idf - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Tf%E2%80%93idf)
+<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Natural Language Processing_1.png" width="20" height="20"> [tf–idf - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Tf%E2%80%93idf)
 http://en.wikipedia.org
 
-<img src="/assets/images/Data Science__Resources__Techniques__Natural Language Processing_2.png" width="20" height="20"> [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
+<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Natural Language Processing_2.png" width="20" height="20"> [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 https://blog.insightdatascience.com
 
 [Stop Using word2vec | Stitch Fix Technology – Multithreaded](https://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/)
@@ -1003,31 +1003,31 @@ https://github.com
 [GitHub - zalandoresearch/flair: A very simple framework for state-of-the-art Natural Language Processing (NLP)](https://github.com/zalandoresearch/flair?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20190121+ai+nl&mkt_tok=eyJpIjoiTTJabVpHUmhPR1ptT0dFeiIsInQiOiJhRFpRYUNXQmZ5aVl2VGFXZCswMU1lM2cwSER0OHFsTXdcL3BPd3N0UTZCcEhVdWR3OG1kK0R1Q0NlVGlNc0hvU2x2bGNxS205YVVCVFFMbnVqQjE5eHd4Sm9RWmZ0VW9iUk1vNTlxZDFKN3hZQThMUW1CaG8zZkhqekt2RWgxWjUifQ%3D%3D)
 https://github.com
 
-<img src="/assets/images/Data Science__Resources__Techniques__Natural Language Processing_3.png" width="20" height="20"> [🚀 100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)
+<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Natural Language Processing_3.png" width="20" height="20"> [🚀 100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)
 https://medium.com
 
 [Open-sourcing PyText for faster NLP development](https://code.fb.com/ai-research/pytext-open-source-nlp-framework/?twitter=@bigdata)
 https://code.fb.com
 
-<img src="/assets/images/Data Science__Resources__Techniques__Natural Language Processing_4.png" width="20" height="20"> [Advanced NLP with spaCy · A free online course](https://course.spacy.io/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_230)
+<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Natural Language Processing_4.png" width="20" height="20"> [Advanced NLP with spaCy · A free online course](https://course.spacy.io/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_230)
 https://course.spacy.io
 
 #### Neural Networks
 
 ##### Generative Adverserial Networks
 
-<img src="/assets/images/Data Science__Resources__Techniques__Neural Networks__Generative Adverserial Networks_0.png" width="20" height="20"> [Generative Adversarial Networks – Key Milestones and State of the Art](https://www.kdnuggets.com/2019/04/future-generative-adversarial-networks.html)
+<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Neural Networks__Generative Adverserial Networks_0.png" width="20" height="20"> [Generative Adversarial Networks – Key Milestones and State of the Art](https://www.kdnuggets.com/2019/04/future-generative-adversarial-networks.html)
 https://www.kdnuggets.com
 
-<img src="/assets/images/Data Science__Resources__Techniques__Neural Networks__Generative Adverserial Networks_1.png" width="20" height="20"> [Implementing SPADE using fastai – Towards Data Science](https://towardsdatascience.com/implementing-spade-using-fastai-6ad86b94030a)
+<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Neural Networks__Generative Adverserial Networks_1.png" width="20" height="20"> [Implementing SPADE using fastai – Towards Data Science](https://towardsdatascience.com/implementing-spade-using-fastai-6ad86b94030a)
 https://towardsdatascience.com
 
-<img src="/assets/images/Data Science__Resources__Techniques__Neural Networks__Generative Adverserial Networks_2.png" width="20" height="20"> [A Brief Introduction To GANs (and how to code them)](https://medium.com/sigmoid/a-brief-introduction-to-gans-and-how-to-code-them-2620ee465c30?mkt_tok=eyJpIjoiWXpjeU1qZzBZekZtWldJMyIsInQiOiJvTWlBeHdJcWhVaTNNeFRUMUJBcklqVkpmdFNWWDVoUzkwcmVISlwvZ21YeENKZGpDbkNzNDg3NUFDVWpBT1M1MG9CbGVZXC9tSVwvT3JxNjljUmJ0K1lFR2hTUE5qdVMyTitJNWVNTzgrNWJEc1IzaHM5YWltaHNIRlNTWmVCU0V1ZiJ9)
+<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Neural Networks__Generative Adverserial Networks_2.png" width="20" height="20"> [A Brief Introduction To GANs (and how to code them)](https://medium.com/sigmoid/a-brief-introduction-to-gans-and-how-to-code-them-2620ee465c30?mkt_tok=eyJpIjoiWXpjeU1qZzBZekZtWldJMyIsInQiOiJvTWlBeHdJcWhVaTNNeFRUMUJBcklqVkpmdFNWWDVoUzkwcmVISlwvZ21YeENKZGpDbkNzNDg3NUFDVWpBT1M1MG9CbGVZXC9tSVwvT3JxNjljUmJ0K1lFR2hTUE5qdVMyTitJNWVNTzgrNWJEc1IzaHM5YWltaHNIRlNTWmVCU0V1ZiJ9)
 https://medium.com
 
 ##### Image Labelling
 
-<img src="/assets/images/Data Science__Resources__Techniques__Neural Networks__Image Labelling_0.png" width="20" height="20"> [fidler-lab/curve-gcn: Official PyTorch code for Curve-GCN (CVPR 2019)](https://github.com/fidler-lab/curve-gcn)
+<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Neural Networks__Image Labelling_0.png" width="20" height="20"> [fidler-lab/curve-gcn: Official PyTorch code for Curve-GCN (CVPR 2019)](https://github.com/fidler-lab/curve-gcn)
 https://github.com
 
 [Google AI Blog: Fluid Annotation: An Exploratory Machine Learning–Powered Interface for Faster Image Annotation](https://ai.googleblog.com/2018/10/fluid-annotation-exploratory-machine.html)
@@ -1137,7 +1137,7 @@ http://www.kdnuggets.com
 [terryum/awesome-deep-learning-papers: The most cited deep learning papers](https://github.com/terryum/awesome-deep-learning-papers)
 https://github.com
 
-<img src="/assets/images/Data Science__Resources__Techniques__Neural Networks_0.png" width="20" height="20"> [Practical Deep Learning For Coders—18 hours of lessons for free](http://course.fast.ai/)
+<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Neural Networks_0.png" width="20" height="20"> [Practical Deep Learning For Coders—18 hours of lessons for free](http://course.fast.ai/)
 http://course.fast.ai
 
 [The Anatomy of Deep Learning Frameworks – Medium](https://medium.com/@gokul_uf/the-anatomy-of-deep-learning-frameworks-46e2a7af5e47#.nwgnpauyk)
@@ -1215,10 +1215,10 @@ https://paperswithcode.com
 [25 Open Datasets for Deep Learning Every Data Scientist Must Work With](https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/)
 https://www.analyticsvidhya.com
 
-<img src="/assets/images/Data Science__Resources__Techniques__Neural Networks_1.png" width="20" height="20"> [Best Practices for Preparing and Augmenting Image Data for Convolutional Neural Networks](https://machinelearningmastery.com/best-practices-for-preparing-and-augmenting-image-data-for-convolutional-neural-networks/)
+<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Neural Networks_1.png" width="20" height="20"> [Best Practices for Preparing and Augmenting Image Data for Convolutional Neural Networks](https://machinelearningmastery.com/best-practices-for-preparing-and-augmenting-image-data-for-convolutional-neural-networks/)
 https://machinelearningmastery.com
 
-<img src="/assets/images/Data Science__Resources__Techniques__Neural Networks_2.png" width="20" height="20"> [How to Visualize Filters and Feature Maps in Convolutional Neural Networks](https://machinelearningmastery.com/how-to-visualize-filters-and-feature-maps-in-convolutional-neural-networks/)
+<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Neural Networks_2.png" width="20" height="20"> [How to Visualize Filters and Feature Maps in Convolutional Neural Networks](https://machinelearningmastery.com/how-to-visualize-filters-and-feature-maps-in-convolutional-neural-networks/)
 https://machinelearningmastery.com
 
 [fast.ai · Making neural nets uncool again](http://www.fast.ai/)
@@ -1227,10 +1227,10 @@ http://www.fast.ai
 [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20190429+ai+nl&mkt_tok=eyJpIjoiTkRaaE5qUTNZamt6WTJZNSIsInQiOiI3eGl5a2NjaEkyVk5TKytoclVMUWw5WU8yOUhnUk8rMVZ2Z2RKMndkZVlaY0s4UDVcL1lqaDlvTFIxaTFYVFwvSm9vdVlMWGcraFlFS21iNFlFVzRBQzkrOVpwaFVNb0xFM0FoK0VjK0d2STNiVGNydWNLblwvWHZzUlVIclFsVEpzNCJ9)
 https://karpathy.github.io
 
-<img src="/assets/images/Data Science__Resources__Techniques__Neural Networks_3.png" width="20" height="20"> [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask | Uber Engineering Blog](https://eng.uber.com/deconstructing-lottery-tickets/)
+<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Neural Networks_3.png" width="20" height="20"> [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask | Uber Engineering Blog](https://eng.uber.com/deconstructing-lottery-tickets/)
 https://eng.uber.com
 
-<img src="/assets/images/Data Science__Resources__Techniques__Neural Networks_4.png" width="20" height="20"> [A 'Brief' History of Neural Nets and Deep Learning – Andrey Kurenkov's Web World](http://www.andreykurenkov.com/writing/ai/a-brief-history-of-neural-nets-and-deep-learning/)
+<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Neural Networks_4.png" width="20" height="20"> [A 'Brief' History of Neural Nets and Deep Learning – Andrey Kurenkov's Web World](http://www.andreykurenkov.com/writing/ai/a-brief-history-of-neural-nets-and-deep-learning/)
 http://www.andreykurenkov.com
 
 #### Next Basket Recommendation
@@ -1350,16 +1350,16 @@ https://www.emilyzabor.com
 [Some new time series packages | Rob J Hyndman](https://robjhyndman.com/hyndsight/tspackages/)
 https://robjhyndman.com
 
-<img src="/assets/images/Data Science__Resources__Techniques__Time Series_0.png" width="20" height="20"> [Sean J. Taylor on Twitter: "📈Long thread on how Prophet works📈 - Instead of sharing slides I'm transcribing my https://t.co/k2O5Z2SJSJ talk to tweets with lots of GIFs :) - Thanks to @_bletham_ for all his help." / Twitter](https://twitter.com/seanjtaylor/status/1123278380369973248)
+<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Time Series_0.png" width="20" height="20"> [Sean J. Taylor on Twitter: "📈Long thread on how Prophet works📈 - Instead of sharing slides I'm transcribing my https://t.co/k2O5Z2SJSJ talk to tweets with lots of GIFs :) - Thanks to @_bletham_ for all his help." / Twitter](https://twitter.com/seanjtaylor/status/1123278380369973248)
 https://twitter.com
 
-<img src="/assets/images/Data Science__Resources__Techniques__Time Series_1.png" width="20" height="20"> [GitHub - TDAmeritrade/stumpy: STUMPY is a powerful and scalable Python library that can be used for a variety of time series data mining tasks](https://github.com/TDAmeritrade/stumpy)
+<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Time Series_1.png" width="20" height="20"> [GitHub - TDAmeritrade/stumpy: STUMPY is a powerful and scalable Python library that can be used for a variety of time series data mining tasks](https://github.com/TDAmeritrade/stumpy)
 https://github.com
 
 [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 https://otexts.com
 
-<img src="/assets/images/Data Science__Resources__Techniques__Time Series_2.png" width="20" height="20"> [blue-yonder/tsfresh: Automatic extraction of relevant features from time series:](https://github.com/blue-yonder/tsfresh)
+<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Time Series_2.png" width="20" height="20"> [blue-yonder/tsfresh: Automatic extraction of relevant features from time series:](https://github.com/blue-yonder/tsfresh)
 https://github.com
 
 #### Uplift Modelling
@@ -1421,7 +1421,7 @@ https://github.com
 [Zero-inflated model - Wikipedia](https://en.m.wikipedia.org/wiki/Zero-inflated_model)
 https://en.m.wikipedia.org
 
-<img src="/assets/images/Data Science__Resources__Techniques_0.png" width="20" height="20"> [GitHub - amueller/dabl: Data Analysis Baseline Library](https://github.com/amueller/dabl)
+<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques_0.png" width="20" height="20"> [GitHub - amueller/dabl: Data Analysis Baseline Library](https://github.com/amueller/dabl)
 https://github.com
 
 [MIT OpenCourseWare | Free Online Course Materials](http://ocw.mit.edu/index.htm)
@@ -1570,13 +1570,13 @@ http://dirk.eddelbuettel.com
 
 #### Concurrency
 
-<img src="/assets/images/Data Science__Software__Python__Concurrency_0.png" width="20" height="20"> [Python 3 Concurrency – The concurrent.futures Module | The Mouse Vs. The Python](https://www.blog.pythonlibrary.org/2016/08/03/python-3-concurrency-the-concurrent-futures-module/)
+<img src="/data-science_bookmarks/assets/images/Data Science__Software__Python__Concurrency_0.png" width="20" height="20"> [Python 3 Concurrency – The concurrent.futures Module | The Mouse Vs. The Python](https://www.blog.pythonlibrary.org/2016/08/03/python-3-concurrency-the-concurrent-futures-module/)
 https://www.blog.pythonlibrary.org
 
-<img src="/assets/images/Data Science__Software__Python__Concurrency_1.png" width="20" height="20"> [Here’s how you can get a 2–6x speed-up on your data pre-processing with Python](https://towardsdatascience.com/heres-how-you-can-get-a-2-6x-speed-up-on-your-data-pre-processing-with-python-847887e63be5)
+<img src="/data-science_bookmarks/assets/images/Data Science__Software__Python__Concurrency_1.png" width="20" height="20"> [Here’s how you can get a 2–6x speed-up on your data pre-processing with Python](https://towardsdatascience.com/heres-how-you-can-get-a-2-6x-speed-up-on-your-data-pre-processing-with-python-847887e63be5)
 https://towardsdatascience.com
 
-<img src="/assets/images/Data Science__Software__Python__Concurrency_2.png" width="20" height="20"> [Intro to Threads and Processes in Python – Brendan Fortuner – Medium](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b)
+<img src="/data-science_bookmarks/assets/images/Data Science__Software__Python__Concurrency_2.png" width="20" height="20"> [Intro to Threads and Processes in Python – Brendan Fortuner – Medium](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b)
 https://medium.com
 
 [A Whirlwind Tour of Python | A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_145)
@@ -1623,7 +1623,7 @@ https://github.com
 
 #### Packaging
 
-<img src="/assets/images/Data Science__Software__Python__Packaging_0.png" width="20" height="20"> [https://blog.easyaspy.org/post/14/2019-05-05-how-to-submit-a-package-to-pypi?utm_source=share&utm_medium=ios_app](https://blog.easyaspy.org/post/14/2019-05-05-how-to-submit-a-package-to-pypi?utm_source=share&utm_medium=ios_app)
+<img src="/data-science_bookmarks/assets/images/Data Science__Software__Python__Packaging_0.png" width="20" height="20"> [https://blog.easyaspy.org/post/14/2019-05-05-how-to-submit-a-package-to-pypi?utm_source=share&utm_medium=ios_app](https://blog.easyaspy.org/post/14/2019-05-05-how-to-submit-a-package-to-pypi?utm_source=share&utm_medium=ios_app)
 https://blog.easyaspy.org
 
 [Packaging Python inside your organization with GitLab and Conda – Stefan Scherfke](https://stefan.sofa-rockers.org/2019/04/18/python-packaging-gitlab-conda/)
@@ -1708,7 +1708,7 @@ http://ohshitgit.com
 [The Ultimate Git Guide to Creating Your First Repo – Learn Git Today – Medium](https://medium.com/learn-git-today/the-ultimate-git-guide-to-creating-your-first-repo-b50762a6ab00)
 https://medium.com
 
-<img src="/assets/images/Data Science__Software__Git_0.png" width="20" height="20"> [How to find stuff in Git – Ty Walls – Medium](https://medium.com/@tygertec/how-to-find-stuff-in-git-35d4cb8c1845?mkt_tok=eyJpIjoiTURjM05tRXlNRGs1WmpVdyIsInQiOiJxUWZteFYyU3hcL0hqTmttXC8ydFZrdjRFQ3FEaWh6ckxLQlpvS050RlM5RG45aUZvV1J5WFk4N3Ftd2JGZ241MU5OZnVmTzRcLzNpcE9sTGJFcHFHT2JxQjh2ZjZGSlQxaHJPSWtReW9KRVdOdW85eTdvYlgxNXBMQjdPVXNaN1pZdCJ9)
+<img src="/data-science_bookmarks/assets/images/Data Science__Software__Git_0.png" width="20" height="20"> [How to find stuff in Git – Ty Walls – Medium](https://medium.com/@tygertec/how-to-find-stuff-in-git-35d4cb8c1845?mkt_tok=eyJpIjoiTURjM05tRXlNRGs1WmpVdyIsInQiOiJxUWZteFYyU3hcL0hqTmttXC8ydFZrdjRFQ3FEaWh6ckxLQlpvS050RlM5RG45aUZvV1J5WFk4N3Ftd2JGZ241MU5OZnVmTzRcLzNpcE9sTGJFcHFHT2JxQjh2ZjZGSlQxaHJPSWtReW9KRVdOdW85eTdvYlgxNXBMQjdPVXNaN1pZdCJ9)
 https://medium.com
 
 ### RStudio
@@ -1743,15 +1743,15 @@ https://github.com
 [Developer overview — NetworkX 2.3 documentation](https://networkx.github.io/documentation/stable/developer/contribute.html#divergence-between-upstream-master-and-your-feature-branch)
 https://networkx.github.io
 
-<img src="/assets/images/Data Science__Software Development__Open Sourcing Packages__Developer Contributions_0.png" width="20" height="20"> [altair/CONTRIBUTING.md at master · altair-viz/altair](https://github.com/altair-viz/altair/blob/master/CONTRIBUTING.md)
+<img src="/data-science_bookmarks/assets/images/Data Science__Software Development__Open Sourcing Packages__Developer Contributions_0.png" width="20" height="20"> [altair/CONTRIBUTING.md at master · altair-viz/altair](https://github.com/altair-viz/altair/blob/master/CONTRIBUTING.md)
 https://github.com
 
-<img src="/assets/images/Data Science__Software Development__Open Sourcing Packages__Developer Contributions_1.png" width="20" height="20"> [moj-analytical-services/our-coding-standards: DaSH's coding standards for analytical projects](https://github.com/moj-analytical-services/our-coding-standards)
+<img src="/data-science_bookmarks/assets/images/Data Science__Software Development__Open Sourcing Packages__Developer Contributions_1.png" width="20" height="20"> [moj-analytical-services/our-coding-standards: DaSH's coding standards for analytical projects](https://github.com/moj-analytical-services/our-coding-standards)
 https://github.com
 
 #### Example Organisations
 
-<img src="/assets/images/Data Science__Software Development__Open Sourcing Packages__Example Organisations_0.png" width="20" height="20"> [MoJ Analytical Services](https://github.com/moj-analytical-services)
+<img src="/data-science_bookmarks/assets/images/Data Science__Software Development__Open Sourcing Packages__Example Organisations_0.png" width="20" height="20"> [MoJ Analytical Services](https://github.com/moj-analytical-services)
 https://github.com
 
 [Installation and usage — Black 19.3b0 documentation](https://black.readthedocs.io/en/stable/installation_and_usage.html)
@@ -1766,7 +1766,7 @@ https://hypothesis.readthedocs.io
 [The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation](https://docs.quantifiedcode.com/python-anti-patterns/)
 https://docs.quantifiedcode.com
 
-<img src="/assets/images/Data Science__Software Development_0.png" width="20" height="20"> [Aleksey Bilogur— Blog](https://www.residentmar.io/2019/07/07/python-mixins.html)
+<img src="/data-science_bookmarks/assets/images/Data Science__Software Development_0.png" width="20" height="20"> [Aleksey Bilogur— Blog](https://www.residentmar.io/2019/07/07/python-mixins.html)
 https://www.residentmar.io
 
 ## Top-Tips
@@ -1794,7 +1794,7 @@ https://www.slideshare.net
 [A/B Testing](https://www.optimizely.com/optimization-glossary/ab-testing/#)
 https://www.optimizely.com
 
-<img src="/assets/images/Data Science__Top-Tips__AB Testing_0.png" width="20" height="20"> [5 Things to Know About A/B Testing](https://www.kdnuggets.com/2018/09/5-things-know-about-ab-testing.html)
+<img src="/data-science_bookmarks/assets/images/Data Science__Top-Tips__AB Testing_0.png" width="20" height="20"> [5 Things to Know About A/B Testing](https://www.kdnuggets.com/2018/09/5-things-know-about-ab-testing.html)
 https://www.kdnuggets.com
 
 [A/B Testing with Machine Learning - A Step-by-Step Tutorial](https://www.business-science.io/business/2019/03/11/ab-testing-machine-learning.html)
@@ -1803,7 +1803,7 @@ https://www.business-science.io
 [AB_Tests_with_Python | Kaggle](https://www.kaggle.com/tammyrotem/ab-tests-with-python/notebook)
 https://www.kaggle.com
 
-<img src="/assets/images/Data Science__Top-Tips__AB Testing_1.png" width="20" height="20"> [How We Talk About A/B Test Results — Squarespace / Engineering](https://engineering.squarespace.com/blog/2019/how-we-talk-about-ab-test-results)
+<img src="/data-science_bookmarks/assets/images/Data Science__Top-Tips__AB Testing_1.png" width="20" height="20"> [How We Talk About A/B Test Results — Squarespace / Engineering](https://engineering.squarespace.com/blog/2019/how-we-talk-about-ab-test-results)
 https://engineering.squarespace.com
 
 ### Model Monitoring
@@ -1817,19 +1817,19 @@ https://en.m.wikipedia.org
 [Waikato/moa: MOA is an open source framework for Big Data stream mining. It includes a collection of machine learning algorithms (classification, regression, clustering, outlier detection, concept drift detection and recommender systems) and tools for evaluation.](https://github.com/waikato/moa)
 https://github.com
 
-<img src="/assets/images/Data Science__Top-Tips__Model Monitoring_0.png" width="20" height="20"> [Orbit: lightweight AI Performance Management tool.](https://www.orbit.dessa.com/)
+<img src="/data-science_bookmarks/assets/images/Data Science__Top-Tips__Model Monitoring_0.png" width="20" height="20"> [Orbit: lightweight AI Performance Management tool.](https://www.orbit.dessa.com/)
 https://www.orbit.dessa.com
 
-<img src="/assets/images/Data Science__Top-Tips__Model Monitoring_1.png" width="20" height="20"> [Concept drift - Wikipedia](https://en.wikipedia.org/wiki/Concept_drift)
+<img src="/data-science_bookmarks/assets/images/Data Science__Top-Tips__Model Monitoring_1.png" width="20" height="20"> [Concept drift - Wikipedia](https://en.wikipedia.org/wiki/Concept_drift)
 https://en.wikipedia.org
 
-<img src="/assets/images/Data Science__Top-Tips__Model Monitoring_2.png" width="20" height="20"> [Chebyshev distance - Wikipedia](https://en.wikipedia.org/wiki/Chebyshev_distance)
+<img src="/data-science_bookmarks/assets/images/Data Science__Top-Tips__Model Monitoring_2.png" width="20" height="20"> [Chebyshev distance - Wikipedia](https://en.wikipedia.org/wiki/Chebyshev_distance)
 https://en.wikipedia.org
 
-<img src="/assets/images/Data Science__Top-Tips__Model Monitoring_3.png" width="20" height="20"> [YOU CANalytics-Population Stability Index (PSI) - Banking Case](http://ucanalytics.com/blogs/population-stability-index-psi-banking-case-study/)
+<img src="/data-science_bookmarks/assets/images/Data Science__Top-Tips__Model Monitoring_3.png" width="20" height="20"> [YOU CANalytics-Population Stability Index (PSI) - Banking Case](http://ucanalytics.com/blogs/population-stability-index-psi-banking-case-study/)
 http://ucanalytics.com
 
-<img src="/assets/images/Data Science__Top-Tips__Model Monitoring_4.png" width="20" height="20"> [Tensorflow Extended (TFX) — Data Analysis, Validation and Drift detection — part 2](https://medium.com/datadriveninvestor/tensorflow-extended-tfx-data-analysis-validation-and-drift-detection-part-2-6a9c5f8c6210)
+<img src="/data-science_bookmarks/assets/images/Data Science__Top-Tips__Model Monitoring_4.png" width="20" height="20"> [Tensorflow Extended (TFX) — Data Analysis, Validation and Drift detection — part 2](https://medium.com/datadriveninvestor/tensorflow-extended-tfx-data-analysis-validation-and-drift-detection-part-2-6a9c5f8c6210)
 https://medium.com
 
 ### Notebooks x Git
@@ -1837,10 +1837,10 @@ https://medium.com
 [nbconvert: Convert Notebooks to other formats — nbconvert 5.4.0.dev0 documentation](https://duckduckgo.com/l/?kh=-1&uddg=https%3A%2F%2Fnbconvert.readthedocs.io%2Fen%2Flatest%2F)
 https://duckduckgo.com
 
-<img src="/assets/images/Data Science__Top-Tips__Notebooks x Git_0.png" width="20" height="20"> [Introducing Jupytext – Towards Data Science](https://towardsdatascience.com/introducing-jupytext-9234fdff6c57)
+<img src="/data-science_bookmarks/assets/images/Data Science__Top-Tips__Notebooks x Git_0.png" width="20" height="20"> [Introducing Jupytext – Towards Data Science](https://towardsdatascience.com/introducing-jupytext-9234fdff6c57)
 https://towardsdatascience.com
 
-<img src="/assets/images/Data Science__Top-Tips__Notebooks x Git_1.png" width="20" height="20"> [gather/README.md at master · microsoft/gather · GitHub](https://github.com/microsoft/gather/blob/master/README.md)
+<img src="/data-science_bookmarks/assets/images/Data Science__Top-Tips__Notebooks x Git_1.png" width="20" height="20"> [gather/README.md at master · microsoft/gather · GitHub](https://github.com/microsoft/gather/blob/master/README.md)
 https://github.com
 
 ### Packaging
@@ -1912,10 +1912,10 @@ https://softwareengineering.stackexchange.com
 
 ### Weighted Percentile
 
-<img src="/assets/images/Data Science__Top-Tips__Weighted Percentile_0.png" width="20" height="20"> [python - Weighted percentile using numpy - Stack Overflow](https://stackoverflow.com/questions/21844024/weighted-percentile-using-numpy)
+<img src="/data-science_bookmarks/assets/images/Data Science__Top-Tips__Weighted Percentile_0.png" width="20" height="20"> [python - Weighted percentile using numpy - Stack Overflow](https://stackoverflow.com/questions/21844024/weighted-percentile-using-numpy)
 https://stackoverflow.com
 
-<img src="/assets/images/Data Science__Top-Tips__Weighted Percentile_1.png" width="20" height="20"> [Percentile - Wikipedia](https://en.wikipedia.org/wiki/Percentile#The_weighted_percentile_method)
+<img src="/data-science_bookmarks/assets/images/Data Science__Top-Tips__Weighted Percentile_1.png" width="20" height="20"> [Percentile - Wikipedia](https://en.wikipedia.org/wiki/Percentile#The_weighted_percentile_method)
 https://en.wikipedia.org
 
 [Rules of Machine Learning:  |  Google Developers](https://developers.google.com/machine-learning/rules-of-ml/)
@@ -1956,10 +1956,10 @@ https://eu.udacity.com
 [](https://pycoders.com/link/1959/usiqtytaqc)
 https://pycoders.com
 
-<img src="/assets/images/Data Science__Training_0.png" width="20" height="20"> [new fast.ai course: A Code-First Introduction to Natural Language Processing · fast.ai](https://www.fast.ai/2019/07/08/fastai-nlp/)
+<img src="/data-science_bookmarks/assets/images/Data Science__Training_0.png" width="20" height="20"> [new fast.ai course: A Code-First Introduction to Natural Language Processing · fast.ai](https://www.fast.ai/2019/07/08/fastai-nlp/)
 https://www.fast.ai
 
-<img src="/assets/images/Data Science__Training_1.png" width="20" height="20"> [Deep Learning A-Z™: Hands-On Artificial Neural Networks | Udemy](https://www.udemy.com/deeplearning/?siteID=SAyYsTvLiGQ-CGFhWa_4VLAVEpkCy7px7A&LSNPUBID=SAyYsTvLiGQ)
+<img src="/data-science_bookmarks/assets/images/Data Science__Training_1.png" width="20" height="20"> [Deep Learning A-Z™: Hands-On Artificial Neural Networks | Udemy](https://www.udemy.com/deeplearning/?siteID=SAyYsTvLiGQ-CGFhWa_4VLAVEpkCy7px7A&LSNPUBID=SAyYsTvLiGQ)
 https://www.udemy.com
 
 [A/B Testing - Udacity](https://classroom.udacity.com/courses/ud257)
@@ -1981,13 +1981,13 @@ http://clrc.rhul.ac.uk
 [Distribution-Free Predictive Inference For Regression](https://arxiv.org/pdf/1604.04173.pdf)
 https://arxiv.org
 
-<img src="/assets/images/Data Science__Uncertainty__Conformal Interval_0.png" width="20" height="20"> [GitHub - donlnz/nonconformist: Python implementation of the conformal prediction framework.](https://github.com/donlnz/nonconformist)
+<img src="/data-science_bookmarks/assets/images/Data Science__Uncertainty__Conformal Interval_0.png" width="20" height="20"> [GitHub - donlnz/nonconformist: Python implementation of the conformal prediction framework.](https://github.com/donlnz/nonconformist)
 https://github.com
 
-<img src="/assets/images/Data Science__Uncertainty__Conformal Interval_1.png" width="20" height="20"> [GitHub - ryantibs/conformal](https://github.com/ryantibs/conformal)
+<img src="/data-science_bookmarks/assets/images/Data Science__Uncertainty__Conformal Interval_1.png" width="20" height="20"> [GitHub - ryantibs/conformal](https://github.com/ryantibs/conformal)
 https://github.com
 
-<img src="/assets/images/Data Science__Uncertainty__Conformal Interval_2.png" width="20" height="20"> [Maria Navarro: Quantifying uncertainty in Machine Learning predictions | PyData London 2019 - YouTube](https://www.youtube.com/watch?v=r6bhm_A-YcQ)
+<img src="/data-science_bookmarks/assets/images/Data Science__Uncertainty__Conformal Interval_2.png" width="20" height="20"> [Maria Navarro: Quantifying uncertainty in Machine Learning predictions | PyData London 2019 - YouTube](https://www.youtube.com/watch?v=r6bhm_A-YcQ)
 https://www.youtube.com
 
 [Propagation of uncertainty - Wikipedia](https://en.wikipedia.org/wiki/Propagation_of_uncertainty)
@@ -2001,10 +2001,10 @@ https://blogs.rstudio.com
 [GitHub - allegroai/trains: TRAINS - Auto-Magical Experiment Manager & Version Control for AI](https://github.com/allegroai/trains)
 https://github.com
 
-<img src="/assets/images/Data Science__Workflow Management_0.png" width="20" height="20"> [GitHub - danijar/handout: Turn Python scripts into handouts with Markdown and figures](https://github.com/danijar/handout)
+<img src="/data-science_bookmarks/assets/images/Data Science__Workflow Management_0.png" width="20" height="20"> [GitHub - danijar/handout: Turn Python scripts into handouts with Markdown and figures](https://github.com/danijar/handout)
 https://github.com
 
-<img src="/assets/images/Data Science_0.png" width="20" height="20"> [GitHub](https://github.com/)
+<img src="/data-science_bookmarks/assets/images/Data Science_0.png" width="20" height="20"> [GitHub](https://github.com/)
 https://github.com
 
 [Projects · Dashboard · GitLab](https://gitlab.com/)
@@ -2016,7 +2016,7 @@ https://g.co
 [Microsoft Azure Notebooks](https://notebooks.azure.com/)
 https://notebooks.azure.com
 
-<img src="/assets/images/Data Science_1.png" width="20" height="20"> [Kaggle: Go from Big Data to Big Analytics](http://www.kaggle.com/)
+<img src="/data-science_bookmarks/assets/images/Data Science_1.png" width="20" height="20"> [Kaggle: Go from Big Data to Big Analytics](http://www.kaggle.com/)
 http://www.kaggle.com
 
 [Machine Learning](https://www.reddit.com/r/MachineLearning/)
