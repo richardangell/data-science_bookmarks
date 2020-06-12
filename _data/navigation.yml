@@ -1,6 +1,6 @@
 main:
-  - title: "Posts"
-    url: /posts/  
+  - title: "Bookmarks"
+    url: /bookmarks/  
   - title: "About"
     url: /about/
 
@@ -8,7 +8,7 @@ bookmarks-sidebar:
   - title: "Navigation"
     children:
       - title: "Child Page A1"
-        url: /posts/data_science_bookmarks_post/#header1
+        url: /bookmarks/#header1
       - title: "Child Page A2"
-        url: /posts/data_science_bookmarks_post/#header-4
+        url: /bookmarks/#header-4
     
