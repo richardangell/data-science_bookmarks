@@ -178,7 +178,7 @@ def write_markdown_file_recursive(bookmarks, folder_level, markdown_string):
 
                     icon_text = ""
 
-                bookmark_text = f'{icon_text}[{item.name}]({item.url})\n{item.url_netloc}\n\n'
+                bookmark_text = f'{icon_text}[{item.name}]({item.url})\n\n{item.url_netloc}\n\n'
                 
                 markdown_string = markdown_string + bookmark_text
                 
