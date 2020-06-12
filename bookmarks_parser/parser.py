@@ -147,7 +147,7 @@ def write_markdown_file(bookmarks, folder_level):
 
     markdown_text = write_markdown_file_recursive(bookmarks, folder_level, markdown_string)
 
-    with open("bookmarks.md", "w") as index_md:
+    with open("_pages/bookmarks.md", "w") as index_md:
 
         index_md.write(markdown_text)
 
