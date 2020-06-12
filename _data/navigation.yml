@@ -47,3 +47,7 @@ bookmarks-sidebar:
         url: /bookmarks/#header-3        
       - title: "Child Page A3bz"
         url: /bookmarks/#header-2b            
+  - title: "Navigation2"
+    children:
+      - title: "Child Page A1"
+        url: /bookmarks/#header1
