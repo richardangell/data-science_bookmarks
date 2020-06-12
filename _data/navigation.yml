@@ -11,4 +11,10 @@ bookmarks-sidebar:
         url: /bookmarks/#header1
       - title: "Child Page A2"
         url: /bookmarks/#header-4
+      - title: "Child Page A1"
+        url: /bookmarks/#header-2
+      - title: "Child Page A2"
+        url: /bookmarks/#header-3        
+      - title: "Child Page A2"
+        url: /bookmarks/#header-2b                
     

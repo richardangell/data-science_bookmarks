@@ -2,7 +2,7 @@
 title: "Bookmarks"
 permalink: /bookmarks/
 sidebar:
-  title: "Navigation"
+  #title: "Navigation"
   nav: bookmarks-sidebar
 ---
 
