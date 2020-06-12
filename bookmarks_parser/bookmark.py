@@ -1,4 +1,5 @@
 import base64
+import urllib
 
 
 
@@ -16,6 +17,9 @@ class Bookmark(object):
         url : str
             The url of the bookmark.
         
+        url_netloc : str
+            The scheme and netloc parts of the url only. 
+
         icon : str, default = None
             Base 64 encoded image for the bookmark icon, stored a string.
 
@@ -29,6 +33,8 @@ class Bookmark(object):
 
         self.name = name
         self.url = url
+        url_parsed = urllib.parse.urlparse(url)
+        self.url_netloc = f'{url_parsed.scheme}://{url_parsed.netloc}'
         self.icon_extra_text = icon_extra_text
         if icon is None:
             self.icon = icon

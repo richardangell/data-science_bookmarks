@@ -131,7 +131,7 @@ def export_bookmark_icons(bookmarks, folder_level):
                 
                 if not item.icon is None:
 
-                    item.export_icon_to_file(f'assets/images/{folder_level_depth}_{j}.png')
+                    item.export_icon_to_file(f'bookmarks/assets/images/{folder_level_depth}_{j}.png')
                     
                     j += 1
 
@@ -146,6 +146,8 @@ def write_markdown_file(bookmarks, folder_level):
     markdown_string = """---\ntitle: "Bookmarks"\npermalink: /bookmarks/\nsidebar:\n  title: "Navigation"\n  nav: bookmarks-sidebar\n---\n\n"""
 
     markdown_text = write_markdown_file_recursive(bookmarks, folder_level, markdown_string)
+
+    markdown_text = markdown_text.replace('bookmarks/assets/images/', '/assets/images/')
 
     with open("_pages/bookmarks.md", "w") as index_md:
 
@@ -176,8 +178,8 @@ def write_markdown_file_recursive(bookmarks, folder_level, markdown_string):
 
                     icon_text = ""
 
-                bookmark_text = f'{icon_text}[{item.name}]({item.url})\n{item.url}\n\n'
-
+                bookmark_text = f'{icon_text}[{item.name}]({item.url})\n{item.url_netloc}\n\n'
+                
                 markdown_string = markdown_string + bookmark_text
                 
     return markdown_string
