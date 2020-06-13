@@ -205,7 +205,12 @@ def write_navigation_yml(bookmarks):
 
         if type(item) is dict:
 
-            yml_string = f"""{yml_string}  - title: "{list(item.keys())[0]}"\n    children:\n"""
+            folder_name = list(item.keys())[0]
+
+            yml_string = f"""{yml_string}  - title: "{folder_name}"\n    children:\n"""
+            yml_string = yml_string + f"""      - title: "{folder_name}"\n"""
+            yml_string = yml_string + f"""        url: /bookmarks/#{folder_name.replace(' ', '-').lower()}\n"""
+
 
             yml_string = write_navifation_yml_recursive(item, yml_string)
 
@@ -229,7 +234,7 @@ def write_navifation_yml_recursive(bookmarks, yml_string):
                 folder_name = list(item.keys())[0]
 
                 yml_string = yml_string + f"""      - title: "{folder_name}"\n"""
-                yml_string = yml_string + f"""        url: /bookmarks/#{folder_name.replace(' ', '-')}\n"""
+                yml_string = yml_string + f"""        url: /bookmarks/#{folder_name.replace(' ', '-').lower()}\n"""
 
                 yml_string = write_navifation_yml_recursive(item, yml_string)
 
