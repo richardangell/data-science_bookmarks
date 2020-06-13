@@ -1,3 +1,4 @@
+from pprint import pprint
 import bs4
 
 from bookmark import Bookmark
@@ -18,6 +19,8 @@ def parse_bookmarks_to_md(filename):
     export_bookmark_icons(data_science_bookmarks, ['Data Science'])
 
     write_markdown_file(data_science_bookmarks, "#")
+
+    write_navigation_yml(data_science_bookmarks)
 
     return data_science_bookmarks
 
@@ -186,8 +189,58 @@ def write_markdown_file_recursive(bookmarks, folder_level, markdown_string):
    
 
 
+def write_navigation_yml(bookmarks):
+    """Function to write the _data/navigation.yml file according to the structure of the parsed bookmarks.
+    
+    Each top level folder (with the Data Science folder) will become a separate section in the 
+    navigation side bar, with all subfolders within that folder listed beneath (without further
+    nesting).
+    """
+
+    yml_string = """main:\n  - title: "Bookmarks"\n    url: /bookmarks/\n  - title: "About"\n    url: /about/\n\n"""
+
+    yml_string = yml_string + """bookmarks-sidebar:\n"""
+    
+    for i, item in enumerate(bookmarks['Data Science']):
+
+        if type(item) is dict:
+
+            yml_string = f"""{yml_string}  - title: "{list(item.keys())[0]}"\n    children:\n"""
+
+            yml_string = write_navifation_yml_recursive(item, yml_string)
+
+    with open("_data/navigation.yml", "w") as navigation_yml:
+
+        navigation_yml.write(yml_string)
+
+
+
+def write_navifation_yml_recursive(bookmarks, yml_string):
+    """Function to recursively transition down bookmarks dict and add subfolders to
+    string that will be written to nagivation yml file.
+    """
+
+    for k, v in bookmarks.items():
+
+        for i, item in enumerate(v):
+            
+            if type(item) is dict:
+                
+                folder_name = list(item.keys())[0]
+
+                yml_string = yml_string + f"""      - title: "{folder_name}"\n"""
+                yml_string = yml_string + f"""        url: /bookmarks/#{folder_name.replace(' ', '-')}\n"""
+
+                yml_string = write_navifation_yml_recursive(item, yml_string)
+
+    return yml_string
+
+
+
 if __name__ == '__main__':
 
     bookmarks_export = '/Users/richardangell/Desktop/bookmarks.html'
 
-    markdown_string = parse_bookmarks_to_md(bookmarks_export)
+    bookmarks_dict = parse_bookmarks_to_md(bookmarks_export)
+
+    pprint(bookmarks_dict)

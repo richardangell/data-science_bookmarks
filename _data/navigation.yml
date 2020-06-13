@@ -1,53 +1,167 @@
 main:
   - title: "Bookmarks"
-    url: /bookmarks/  
+    url: /bookmarks/
   - title: "About"
     url: /about/
 
 bookmarks-sidebar:
-  - title: "Navigation"
+  - title: "00 Readlist"
     children:
-      - title: "Child Page A1"
-        url: /bookmarks/#header1
-      - title: "Child Page A4"
-        url: /bookmarks/#header-4
-      - title: "Child Page A3"
-        url: /bookmarks/#header-2
-      - title: "Child Page A3"
-        url: /bookmarks/#header-3        
-      - title: "Child Page A3b"
-        url: /bookmarks/#header-2b                
-      - title: "Child Page A1x"
-        url: /bookmarks/#header1
-      - title: "Child Page A4x"
-        url: /bookmarks/#header-4
-      - title: "Child Page A3x"
-        url: /bookmarks/#header-2
-      - title: "Child Page A3x"
-        url: /bookmarks/#header-3        
-      - title: "Child Page A3bx"
-        url: /bookmarks/#header-2b                
-      - title: "Child Page A1y"
-        url: /bookmarks/#header1
-      - title: "Child Page A4y"
-        url: /bookmarks/#header-4
-      - title: "Child Page A3y"
-        url: /bookmarks/#header-2
-      - title: "Child Page A3y"
-        url: /bookmarks/#header-3        
-      - title: "Child Page A3by"
-        url: /bookmarks/#header-2b            
-      - title: "Child Page A1z"
-        url: /bookmarks/#header1
-      - title: "Child Page A4z"
-        url: /bookmarks/#header-4
-      - title: "Child Page A3z"
-        url: /bookmarks/#header-2
-      - title: "Child Page A3z"
-        url: /bookmarks/#header-3        
-      - title: "Child Page A3bz"
-        url: /bookmarks/#header-2b            
-  - title: "Navigation2"
+      - title: "Best"
+        url: /bookmarks/#Best
+      - title: "Watchlist"
+        url: /bookmarks/#Watchlist
+  - title: "Blogs"
     children:
-      - title: "Child Page A1"
-        url: /bookmarks/#header1
+  - title: "Data Visualisation"
+    children:
+      - title: "Shiny"
+        url: /bookmarks/#Shiny
+      - title: "Altair"
+        url: /bookmarks/#Altair
+  - title: "Ethics and Fairness"
+    children:
+  - title: "Interpretability"
+    children:
+      - title: "Shapley Values"
+        url: /bookmarks/#Shapley-Values
+      - title: "Prediction Decomposition"
+        url: /bookmarks/#Prediction-Decomposition
+  - title: "Presentation Material"
+    children:
+  - title: "Projects"
+    children:
+      - title: "Betting"
+        url: /bookmarks/#Betting
+      - title: "Dog Monitor"
+        url: /bookmarks/#Dog-Monitor
+      - title: "Juypter button extension"
+        url: /bookmarks/#Juypter-button-extension
+      - title: "Kaggle"
+        url: /bookmarks/#Kaggle
+      - title: "TensorFlow Speech Recognition"
+        url: /bookmarks/#TensorFlow-Speech-Recognition
+      - title: "Instacart"
+        url: /bookmarks/#Instacart
+      - title: "Neural Network Important Pixels"
+        url: /bookmarks/#Neural-Network-Important-Pixels
+      - title: "Sequence Trees"
+        url: /bookmarks/#Sequence-Trees
+      - title: "Xgboost node predictions"
+        url: /bookmarks/#Xgboost-node-predictions
+  - title: "Resources"
+    children:
+      - title: "Collections"
+        url: /bookmarks/#Collections
+      - title: "Techniques"
+        url: /bookmarks/#Techniques
+      - title: "Anomaly Detection"
+        url: /bookmarks/#Anomaly-Detection
+      - title: "Bayesian Methods"
+        url: /bookmarks/#Bayesian-Methods
+      - title: "Bump Hunting"
+        url: /bookmarks/#Bump-Hunting
+      - title: "Ensembling"
+        url: /bookmarks/#Ensembling
+      - title: "Gradient Boosted Machines"
+        url: /bookmarks/#Gradient-Boosted-Machines
+      - title: "Imputation"
+        url: /bookmarks/#Imputation
+      - title: "Mixed Models"
+        url: /bookmarks/#Mixed-Models
+      - title: "Multi Armed Bandit"
+        url: /bookmarks/#Multi-Armed-Bandit
+      - title: "Natural Language Processing"
+        url: /bookmarks/#Natural-Language-Processing
+      - title: "Neural Networks"
+        url: /bookmarks/#Neural-Networks
+      - title: "Generative Adverserial Networks"
+        url: /bookmarks/#Generative-Adverserial-Networks
+      - title: "Image Labelling"
+        url: /bookmarks/#Image-Labelling
+      - title: "Long Short Term Memory"
+        url: /bookmarks/#Long-Short-Term-Memory
+      - title: "Recurrent Neural Networks"
+        url: /bookmarks/#Recurrent-Neural-Networks
+      - title: "Tensorflow"
+        url: /bookmarks/#Tensorflow
+      - title: "Transfer Learning"
+        url: /bookmarks/#Transfer-Learning
+      - title: "Next Basket Recommendation"
+        url: /bookmarks/#Next-Basket-Recommendation
+      - title: "Factorisation Machines"
+        url: /bookmarks/#Factorisation-Machines
+      - title: "Outliers"
+        url: /bookmarks/#Outliers
+      - title: "Penalised Regression"
+        url: /bookmarks/#Penalised-Regression
+      - title: "Random Forest"
+        url: /bookmarks/#Random-Forest
+      - title: "Recommender Systems"
+        url: /bookmarks/#Recommender-Systems
+      - title: "Speech Recognition"
+        url: /bookmarks/#Speech-Recognition
+      - title: "Survival Analysis"
+        url: /bookmarks/#Survival-Analysis
+      - title: "Time Series"
+        url: /bookmarks/#Time-Series
+      - title: "Uplift Modelling"
+        url: /bookmarks/#Uplift-Modelling
+  - title: "Software"
+    children:
+      - title: "R"
+        url: /bookmarks/#R
+      - title: "data.table"
+        url: /bookmarks/#data.table
+      - title: "tidyverse"
+        url: /bookmarks/#tidyverse
+      - title: "Package Development"
+        url: /bookmarks/#Package-Development
+      - title: "Python"
+        url: /bookmarks/#Python
+      - title: "Concurrency"
+        url: /bookmarks/#Concurrency
+      - title: "Packaging"
+        url: /bookmarks/#Packaging
+      - title: "Git"
+        url: /bookmarks/#Git
+      - title: "Github"
+        url: /bookmarks/#Github
+      - title: "RStudio"
+        url: /bookmarks/#RStudio
+  - title: "Software Development"
+    children:
+      - title: "Open Sourcing Packages"
+        url: /bookmarks/#Open-Sourcing-Packages
+      - title: "Developer Contributions"
+        url: /bookmarks/#Developer-Contributions
+      - title: "Example Organisations"
+        url: /bookmarks/#Example-Organisations
+  - title: "Top-Tips"
+    children:
+      - title: "AB Testing"
+        url: /bookmarks/#AB-Testing
+      - title: "Model Monitoring"
+        url: /bookmarks/#Model-Monitoring
+      - title: "Notebooks x Git"
+        url: /bookmarks/#Notebooks-x-Git
+      - title: "Packaging"
+        url: /bookmarks/#Packaging
+      - title: "Production"
+        url: /bookmarks/#Production
+      - title: "Statistics"
+        url: /bookmarks/#Statistics
+      - title: "Team"
+        url: /bookmarks/#Team
+      - title: "Tips"
+        url: /bookmarks/#Tips
+      - title: "Weighted Percentile"
+        url: /bookmarks/#Weighted-Percentile
+  - title: "Training"
+    children:
+  - title: "Uncertainty"
+    children:
+      - title: "Conformal Interval"
+        url: /bookmarks/#Conformal-Interval
+  - title: "Workflow Management"
+    children:
