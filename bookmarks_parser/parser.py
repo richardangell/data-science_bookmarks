@@ -181,7 +181,7 @@ def write_markdown_file(bookmarks, folder_level):
     markdown_string = markdown_string + "  nav: bookmarks-sidebar\n"
     markdown_string = markdown_string + "---\n"
     markdown_string = markdown_string + "\n"
-    markdown_string = markdown_string + "This pages contains a export of my data science bookmarks folder. It is not updated on any sort of schedule.\n"
+    markdown_string = markdown_string + "This pages contains a export of my data science bookmarks folder. It is not updated on any sort of schedule. It hopefully contains useful and interesting topics across a variety of areas within data science.\n"
     markdown_string = markdown_string + "\n"
 
     markdown_text = write_markdown_file_recursive(bookmarks, folder_level, markdown_string)

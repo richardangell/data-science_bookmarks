@@ -6,7 +6,7 @@ sidebar:
   nav: bookmarks-sidebar
 ---
 
-This pages contains a export of my data science bookmarks folder. It is not updated on any sort of schedule.
+This pages contains a export of my data science bookmarks folder. It is not updated on any sort of schedule. It hopefully contains useful and interesting topics across a variety of areas within data science.
 
 # Data Science
 
