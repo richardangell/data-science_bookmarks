@@ -183,7 +183,7 @@ def write_markdown_file(bookmarks, folder_level):
     """Function to write the _pages/bookmarks.md file, containing bookmark information."""
 
     markdown_string = "---\n"
-    markdown_string = markdown_string + """title: "Data Science Bookmarks"\n"""
+    markdown_string = markdown_string + """title: "Bookmarks Export"\n"""
     markdown_string = markdown_string + "permalink: /bookmarks/\n"
     markdown_string = markdown_string + "sidebar:\n"
     markdown_string = markdown_string + """  title: "Navigation"\n"""
@@ -196,8 +196,6 @@ def write_markdown_file(bookmarks, folder_level):
     markdown_text = write_markdown_file_recursive(bookmarks, folder_level, markdown_string)
 
     markdown_text = markdown_text.replace('assets/images/', '/data-science_bookmarks/assets/images/')
-
-    markdown_text = markdown_text.replace('# Data Science\n\n', '')
 
     with open("_pages/bookmarks.md", "w") as index_md:
 
@@ -248,6 +246,11 @@ def write_navigation_yml(bookmarks):
 
     yml_string = yml_string + """bookmarks-sidebar:\n"""
     
+    folder_name = 'Data Science'
+    yml_string = f"""{yml_string}  - title: "{folder_name}"\n    children:\n"""
+    yml_string = yml_string + f"""      - title: "{folder_name}"\n"""
+    yml_string = yml_string + f"""        url: /bookmarks/#{folder_name.replace(' ', '-').lower()}\n"""
+
     for i, item in enumerate(bookmarks['Data Science']):
 
         if type(item) is dict:

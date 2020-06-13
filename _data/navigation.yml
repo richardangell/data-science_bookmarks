@@ -5,6 +5,10 @@ main:
     url: /about/
 
 bookmarks-sidebar:
+  - title: "Data Science"
+    children:
+      - title: "Data Science"
+        url: /bookmarks/#data-science
   - title: "00 Readlist"
     children:
       - title: "00 Readlist"

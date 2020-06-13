@@ -1,5 +1,5 @@
 ---
-title: "Data Science Bookmarks"
+title: "Bookmarks Export"
 permalink: /bookmarks/
 sidebar:
   title: "Navigation"
@@ -7,6 +7,8 @@ sidebar:
 ---
 
 This pages contains a export of my data science bookmarks folder. It is not updated on any sort of schedule.
+
+# Data Science
 
 <img src="/data-science_bookmarks/assets/images/Data Science_0.png" width="20" height="20"> [GitHub](https://github.com/)
 (https://github.com)
