@@ -146,11 +146,13 @@ def export_bookmark_icons(bookmarks, folder_level):
 
 def write_markdown_file(bookmarks, folder_level):
 
-    markdown_string = """---\ntitle: "Bookmarks"\npermalink: /bookmarks/\nsidebar:\n  title: "Navigation"\n  nav: bookmarks-sidebar\n---\n\n"""
+    markdown_string = """---\ntitle: "Data Science Bookmarks"\npermalink: /bookmarks/\nsidebar:\n  title: "Navigation"\n  nav: bookmarks-sidebar\n---\n\n"""
 
     markdown_text = write_markdown_file_recursive(bookmarks, folder_level, markdown_string)
 
     markdown_text = markdown_text.replace('assets/images/', '/data-science_bookmarks/assets/images/')
+
+    markdown_text = markdown_text.replace('# Data Science\n\n', '')
 
     with open("_pages/bookmarks.md", "w") as index_md:
 

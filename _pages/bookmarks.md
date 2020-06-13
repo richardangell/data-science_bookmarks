@@ -1,12 +1,10 @@
 ---
-title: "Bookmarks"
+title: "Data Science Bookmarks"
 permalink: /bookmarks/
 sidebar:
   title: "Navigation"
   nav: bookmarks-sidebar
 ---
-
-# Data Science
 
 ## 00 Readlist
 
