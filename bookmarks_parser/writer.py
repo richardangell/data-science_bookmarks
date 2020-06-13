@@ -1,4 +1,5 @@
 from pprint import pprint
+from pathlib import Path
 import parser 
 
 import exporter
@@ -7,17 +8,81 @@ from bookmark import Bookmark
 
 
 def update_site_files(html_bookmark_export_file):
-    """Function to do parse html bookmarks exported from Firefox to markdown file."""
+    """Function to parse html bookmarks exported from Firefox and write markdown bookmarks page 
+    and navigation yml file.
+    """
 
     data_science_bookmarks = parser.parse_bookmarks_wrapper(html_bookmark_export_file)
 
-    parser.export_bookmark_icons(data_science_bookmarks, ['Data Science'])
+    clear_icons()
+
+    export_bookmark_icons(data_science_bookmarks, ['Data Science'])
 
     write_markdown_file(data_science_bookmarks, "#")
 
     write_navigation_yml(data_science_bookmarks)
 
     return data_science_bookmarks
+
+
+
+def export_bookmark_icons(bookmarks, folder_level):
+    """Function to traverse the a nested structure containing Bookmark objects 
+    and run the export_icon_to_file method on the Bookmark objects.
+    """ 
+
+    folder_level_depth = "__".join(folder_level)
+
+    j = 0
+
+    for k, v in bookmarks.items():
+
+        for i, item in enumerate(v):
+
+            if type(item) is dict:
+                
+                next_level = list(item.keys())[0]
+
+                next_folder_level = folder_level + [next_level]
+
+                export_bookmark_icons(item, next_folder_level)
+
+            elif type(item) is Bookmark:
+                
+                if not item.icon is None:
+
+                    item.export_icon_to_file(f'assets/images/{folder_level_depth}_{j}.png')
+                    
+                    j += 1
+
+            else:
+
+                raise TypeError(f'unexpected type ({type(item)}) at {folder_level_depth} and index {i}')
+
+
+
+def clear_icons():
+    """Function to delete previously exported icons in the assets/images/ folder.
+
+    The bio-photo.png and IMG_0784_crop.jpg (splash image) are not deleted.
+    """
+
+    keep_files = [
+        'bio-photo.png',
+        'IMG_0784_crop.jpg'
+    ]
+
+    images_folder = Path('assets/images/')
+
+    assert(images_folder.is_dir())
+
+    for f in images_folder.iterdir():
+
+        if f.is_file():
+            
+            if not f.name in keep_files:
+
+                f.unlink()
 
 
 

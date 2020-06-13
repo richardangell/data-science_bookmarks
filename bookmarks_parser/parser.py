@@ -130,41 +130,6 @@ def get_data_science_bookmarks(bookmarks):
 
 
 
-def export_bookmark_icons(bookmarks, folder_level):
-    """Function to traverse the a nested structure containing Bookmark objects 
-    and run the export_icon_to_file method on the Bookmark objects.
-    """ 
-
-    folder_level_depth = "__".join(folder_level)
-
-    j = 0
-
-    for k, v in bookmarks.items():
-
-        for i, item in enumerate(v):
-
-            if type(item) is dict:
-                
-                next_level = list(item.keys())[0]
-
-                next_folder_level = folder_level + [next_level]
-
-                export_bookmark_icons(item, next_folder_level)
-
-            elif type(item) is Bookmark:
-                
-                if not item.icon is None:
-
-                    item.export_icon_to_file(f'assets/images/{folder_level_depth}_{j}.png')
-                    
-                    j += 1
-
-            else:
-
-                raise TypeError(f'unexpected type ({type(item)}) at {folder_level_depth} and index {i}')
-
-
-
 if __name__ == '__main__':
 
     bookmarks_dict = parse_bookmarks_wrapper(exporter.bookmarks_export_file)
