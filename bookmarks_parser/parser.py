@@ -68,15 +68,6 @@ def sort_bookmarks_list(l):
     there are not other conditions considered in the 'sorting'.
    """
 
-    # l_sorted = l[:]
-
-    # for i in range(len(l)-1, -1, -1):
-
-    #     if type(l[i]) is dict:
-
-    #         l_sorted.append(l[i])
-    #         del l_sorted[i]
-
     l_bookmarks = []
     l_dicts = []
 
