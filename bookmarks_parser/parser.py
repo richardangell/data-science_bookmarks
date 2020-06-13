@@ -1,6 +1,7 @@
 from pprint import pprint
 import bs4
 
+import exporter
 from bookmark import Bookmark
 
 
@@ -166,8 +167,6 @@ def export_bookmark_icons(bookmarks, folder_level):
 
 if __name__ == '__main__':
 
-    bookmarks_export = '/Users/richardangell/Desktop/bookmarks.html'
-
-    bookmarks_dict = parse_bookmarks_wrapper(bookmarks_export)
+    bookmarks_dict = parse_bookmarks_wrapper(exporter.bookmarks_export_file)
 
     pprint(bookmarks_dict)

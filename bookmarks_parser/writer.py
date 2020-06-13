@@ -1,6 +1,7 @@
 from pprint import pprint
 import parser 
 
+import exporter
 from bookmark import Bookmark
 
 
@@ -135,8 +136,6 @@ def write_navifation_yml_recursive(bookmarks, yml_string):
 
 if __name__ == '__main__':
 
-    bookmarks_export = '/Users/richardangell/Desktop/bookmarks.html'
-
-    bookmarks_dict = update_site_files(bookmarks_export)
+    bookmarks_dict = update_site_files(exporter.bookmarks_export_file)
 
     pprint(bookmarks_dict)
