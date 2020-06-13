@@ -6,6 +6,8 @@ sidebar:
   nav: bookmarks-sidebar
 ---
 
+This pages contains a export of my data science bookmarks folder. It is not updated on any sort of schedule.
+
 ## 00 Readlist
 
 ### Best

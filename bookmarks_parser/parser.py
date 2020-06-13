@@ -145,8 +145,18 @@ def export_bookmark_icons(bookmarks, folder_level):
 
 
 def write_markdown_file(bookmarks, folder_level):
+    """Function to write the _pages/bookmarks.md file, containing bookmark information."""
 
-    markdown_string = """---\ntitle: "Data Science Bookmarks"\npermalink: /bookmarks/\nsidebar:\n  title: "Navigation"\n  nav: bookmarks-sidebar\n---\n\n"""
+    markdown_string = "---\n"
+    markdown_string = markdown_string + """title: "Data Science Bookmarks"\n"""
+    markdown_string = markdown_string + "permalink: /bookmarks/\n"
+    markdown_string = markdown_string + "sidebar:\n"
+    markdown_string = markdown_string + """  title: "Navigation"\n"""
+    markdown_string = markdown_string + "  nav: bookmarks-sidebar\n"
+    markdown_string = markdown_string + "---\n"
+    markdown_string = markdown_string + "\n"
+    markdown_string = markdown_string + "This pages contains a export of my data science bookmarks folder. It is not updated on any sort of schedule.\n"
+    markdown_string = markdown_string + "\n"
 
     markdown_text = write_markdown_file_recursive(bookmarks, folder_level, markdown_string)
 
