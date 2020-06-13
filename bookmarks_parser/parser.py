@@ -57,7 +57,42 @@ def extract_dl_recursive(dl):
                 k = list(item_data.keys())[0]
                 item_data[k] = extract_dl_recursive(item_data[k])
             items.append(item_data)    
-    return items
+    return sort_bookmarks_list(items)
+
+
+
+def sort_bookmarks_list(l):
+    """Function to sort list containing dict and Bookmark objects.
+
+    All Bookmark objects will appear before dict object. Apart from that
+    there are not other conditions considered in the 'sorting'.
+   """
+
+    # l_sorted = l[:]
+
+    # for i in range(len(l)-1, -1, -1):
+
+    #     if type(l[i]) is dict:
+
+    #         l_sorted.append(l[i])
+    #         del l_sorted[i]
+
+    l_bookmarks = []
+    l_dicts = []
+
+    for item in l:
+
+        if type(item) is dict:
+
+            l_dicts.append(item)
+
+        else:
+
+            l_bookmarks.append(item)
+
+    l_sorted = l_bookmarks + l_dicts
+
+    return l_sorted
 
 
 

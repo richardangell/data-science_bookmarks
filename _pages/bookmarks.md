@@ -8,29 +8,37 @@ sidebar:
 
 This pages contains a export of my data science bookmarks folder. It is not updated on any sort of schedule.
 
+<img src="/data-science_bookmarks/assets/images/Data Science_0.png" width="20" height="20"> [GitHub](https://github.com/)
+(https://github.com)
+
+[Projects · Dashboard · GitLab](https://gitlab.com/)
+(https://gitlab.com)
+
+[g.co/colab](https://g.co/colab)
+(https://g.co)
+
+[Microsoft Azure Notebooks](https://notebooks.azure.com/)
+(https://notebooks.azure.com)
+
+<img src="/data-science_bookmarks/assets/images/Data Science_1.png" width="20" height="20"> [Kaggle: Go from Big Data to Big Analytics](http://www.kaggle.com/)
+(http://www.kaggle.com)
+
+[Machine Learning](https://www.reddit.com/r/MachineLearning/)
+(https://www.reddit.com)
+
+[arXiv.org | Machine Learning authors/titles recent submissions](https://arxiv.org/list/stat.ML/recent)
+(https://arxiv.org)
+
+[Google Open Source – opensource.google.com](https://opensource.google.com/?imm_mid=0efb22&cmp=em-prog-na-na-newsltr_20170401)
+(https://opensource.google.com)
+
+[Home Page - aigaming.com](https://www.aigaming.com/)
+(https://www.aigaming.com)
+
+[OS OpenData Supply - Download or order OS OpenData](https://www.ordnancesurvey.co.uk/opendatadownload/products.html#TERR50)
+(https://www.ordnancesurvey.co.uk)
+
 ## 00 Readlist
-
-### Best
-
-<img src="/data-science_bookmarks/assets/images/Data Science__00 Readlist__Best_0.png" width="20" height="20"> [Analyzing Experiment Outcomes: Beyond Average Treatment Effects | Uber Engineering Blog](https://eng.uber.com/analyzing-experiment-outcomes/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20181114+data+nl&mkt_tok=eyJpIjoiWWpBME5URTVaRFV6TmpWayIsInQiOiIwT2h4UzRYSHRzWHdFd2pyWUZ3cUtiRStEUzNlVjB2R0NUeTRNckhJbTN3M0o1Wmp3MzFBNWZYUFBcL2o4bEwrTGpEXC9zK1NOT0FaaWVITHRkVzRzNTNUVGhpaEllaTlVQnJPdFNQZW1rWEtzS1I2RkgyekdsQ2ZXaHNmVXBRVm1zIn0%3D)
-(https://eng.uber.com)
-
-[Your Client Engagement Program Isn't Doing What You Think It Is. | Stitch Fix Technology – Multithreaded](https://multithreaded.stitchfix.com/blog/2018/11/08/bandits/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20181128+data+nl&mkt_tok=eyJpIjoiTUdSaE5qTTVaamc0TUdJNCIsInQiOiJ2dFpHVnFqUlQweDh5QkZhbU5VQlpFeG5QNnVOeUM0UTVSRk1QOUJaV25ObHNJakM0NWVVU3FueStrdTI2bFVmY3gxSG5nRVVOWFRaYXJ3WUphcEZyMFZNVWY3RWhpYWw1b2ZzUGYwQlJRWjdFXC90eGR6NGlOVkVhOUJiNG5zK24ifQ%3D%3D)
-(https://multithreaded.stitchfix.com)
-
-### Watchlist
-
-[Advanced Python or Understanding Python - YouTube](https://www.youtube.com/watch?v=uOzdG3lwcB4)
-(https://www.youtube.com)
-
-[Jake VanderPlas The Python Visualization Landscape PyCon 2017 - YouTube](https://www.youtube.com/watch?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_133&v=FytuB8nFHPQ)
-(https://www.youtube.com)
-
-<img src="/data-science_bookmarks/assets/images/Data Science__00 Readlist__Watchlist_0.png" width="20" height="20"> [Beyond word2vec: GloVe, fastText, StarSpace - Konstantinos Perifanos - YouTube](https://www.youtube.com/watch?v=6xPnEh_tJEc)
-(https://www.youtube.com)
-
-[But what is a Fourier series? From heat flow to circle drawings | DE4 - YouTube](https://www.youtube.com/watch?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_241&v=r6sGWTCMz2k)
-(https://www.youtube.com)
 
 [Distributed Representations of Words and Phrases and their Compositionality - 5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
 (http://papers.nips.cc)
@@ -362,6 +370,28 @@ This pages contains a export of my data science bookmarks folder. It is not upda
 <img src="/data-science_bookmarks/assets/images/Data Science__00 Readlist_9.png" width="20" height="20"> [Sales Forecasting Using Facebook’s Prophet](https://www.kdnuggets.com/2018/11/sales-forecasting-using-prophet.html)
 (https://www.kdnuggets.com)
 
+### Best
+
+<img src="/data-science_bookmarks/assets/images/Data Science__00 Readlist__Best_0.png" width="20" height="20"> [Analyzing Experiment Outcomes: Beyond Average Treatment Effects | Uber Engineering Blog](https://eng.uber.com/analyzing-experiment-outcomes/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20181114+data+nl&mkt_tok=eyJpIjoiWWpBME5URTVaRFV6TmpWayIsInQiOiIwT2h4UzRYSHRzWHdFd2pyWUZ3cUtiRStEUzNlVjB2R0NUeTRNckhJbTN3M0o1Wmp3MzFBNWZYUFBcL2o4bEwrTGpEXC9zK1NOT0FaaWVITHRkVzRzNTNUVGhpaEllaTlVQnJPdFNQZW1rWEtzS1I2RkgyekdsQ2ZXaHNmVXBRVm1zIn0%3D)
+(https://eng.uber.com)
+
+[Your Client Engagement Program Isn't Doing What You Think It Is. | Stitch Fix Technology – Multithreaded](https://multithreaded.stitchfix.com/blog/2018/11/08/bandits/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20181128+data+nl&mkt_tok=eyJpIjoiTUdSaE5qTTVaamc0TUdJNCIsInQiOiJ2dFpHVnFqUlQweDh5QkZhbU5VQlpFeG5QNnVOeUM0UTVSRk1QOUJaV25ObHNJakM0NWVVU3FueStrdTI2bFVmY3gxSG5nRVVOWFRaYXJ3WUphcEZyMFZNVWY3RWhpYWw1b2ZzUGYwQlJRWjdFXC90eGR6NGlOVkVhOUJiNG5zK24ifQ%3D%3D)
+(https://multithreaded.stitchfix.com)
+
+### Watchlist
+
+[Advanced Python or Understanding Python - YouTube](https://www.youtube.com/watch?v=uOzdG3lwcB4)
+(https://www.youtube.com)
+
+[Jake VanderPlas The Python Visualization Landscape PyCon 2017 - YouTube](https://www.youtube.com/watch?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_133&v=FytuB8nFHPQ)
+(https://www.youtube.com)
+
+<img src="/data-science_bookmarks/assets/images/Data Science__00 Readlist__Watchlist_0.png" width="20" height="20"> [Beyond word2vec: GloVe, fastText, StarSpace - Konstantinos Perifanos - YouTube](https://www.youtube.com/watch?v=6xPnEh_tJEc)
+(https://www.youtube.com)
+
+[But what is a Fourier series? From heat flow to circle drawings | DE4 - YouTube](https://www.youtube.com/watch?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_241&v=r6sGWTCMz2k)
+(https://www.youtube.com)
+
 ## Blogs
 
 [Revolutions](http://blog.revolutionanalytics.com/)
@@ -447,23 +477,6 @@ This pages contains a export of my data science bookmarks folder. It is not upda
 
 ## Data Visualisation
 
-### Shiny
-
-[Shiny tips & tricks for improving your apps and solving common problems](https://deanattali.com/blog/advanced-shiny-tips/)
-(https://deanattali.com)
-
-[DivadNojnarg/shinydashboardPlus: extensions for shinydashboard](https://github.com/DivadNojnarg/shinydashboardPlus)
-(https://github.com)
-
-[webinars/19-Understanding-modules at master · rstudio/webinars](https://github.com/rstudio/webinars/tree/master/19-Understanding-modules)
-(https://github.com)
-
-[Reproducible Shiny App Development with Modules](https://www.blog.cultureofinsight.com/2018/01/reproducible-shiny-app-development-with-modules/#disqus_thread)
-(https://www.blog.cultureofinsight.com)
-
-[https://nolisllc.com/assets/presentations/cascadia-r-conf-nolis-jacqueline.pdf](https://nolisllc.com/assets/presentations/cascadia-r-conf-nolis-jacqueline.pdf)
-(https://nolisllc.com)
-
 [Data Visualization](https://socviz.co/index.html#preface)
 (https://socviz.co)
 
@@ -493,6 +506,23 @@ This pages contains a export of my data science bookmarks folder. It is not upda
 
 [GitHub - sauercrowd/altair-dashboard: A simple solution to create dashboards on the fly with altair charts](https://github.com/sauercrowd/altair-dashboard)
 (https://github.com)
+
+### Shiny
+
+[Shiny tips & tricks for improving your apps and solving common problems](https://deanattali.com/blog/advanced-shiny-tips/)
+(https://deanattali.com)
+
+[DivadNojnarg/shinydashboardPlus: extensions for shinydashboard](https://github.com/DivadNojnarg/shinydashboardPlus)
+(https://github.com)
+
+[webinars/19-Understanding-modules at master · rstudio/webinars](https://github.com/rstudio/webinars/tree/master/19-Understanding-modules)
+(https://github.com)
+
+[Reproducible Shiny App Development with Modules](https://www.blog.cultureofinsight.com/2018/01/reproducible-shiny-app-development-with-modules/#disqus_thread)
+(https://www.blog.cultureofinsight.com)
+
+[https://nolisllc.com/assets/presentations/cascadia-r-conf-nolis-jacqueline.pdf](https://nolisllc.com/assets/presentations/cascadia-r-conf-nolis-jacqueline.pdf)
+(https://nolisllc.com)
 
 ### Altair
 
@@ -550,43 +580,6 @@ This pages contains a export of my data science bookmarks folder. It is not upda
 (https://assets.publishing.service.gov.uk)
 
 ## Interpretability
-
-### Shapley Values
-
-<img src="/data-science_bookmarks/assets/images/Data Science__Interpretability__Shapley Values_0.png" width="20" height="20"> [slundberg/shap: A unified approach to explain the output of any machine learning model.](https://github.com/slundberg/shap)
-(https://github.com)
-
-[redichh/ShapleyR: Package for a nice and smoothe usage of the shapley value for mlr](https://github.com/redichh/ShapleyR)
-(https://github.com)
-
-[Added support for Independent TreeSHAP by HughChen · Pull Request #290 · slundberg/shap · GitHub](https://github.com/slundberg/shap/pull/290)
-(https://github.com)
-
-[Explain individual predictions using SHAP value feature attributions by slundberg · Pull Request #825 · Microsoft/LightGBM · GitHub](https://github.com/Microsoft/LightGBM/pull/825)
-(https://github.com)
-
-[Interpretable Machine Learning with XGBoost – Towards Data Science](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
-(https://towardsdatascience.com)
-
-[One Feature Attribution Method to (Supposedly) Rule Them All: Shapley Values](https://towardsdatascience.com/one-feature-attribution-method-to-supposedly-rule-them-all-shapley-values-f3e04534983d)
-(https://towardsdatascience.com)
-
-[Interpreting complex models with SHAP values – Gabriel Tseng – Medium](https://medium.com/@gabrieltseng/interpreting-complex-models-with-shap-values-1c187db6ec83)
-(https://medium.com)
-
-[Demystifying Black-Box Models with SHAP Value Analysis](https://medium.com/civis-analytics/demystifying-black-box-models-with-shap-value-analysis-3e20b536fc80)
-(https://medium.com)
-
-[PyData Tel Aviv Meetup: SHAP Values for ML Explainability - Adi Watzman - YouTube](https://www.youtube.com/watch?v=0yXtdkIL3Xk)
-(https://www.youtube.com)
-
-### Prediction Decomposition
-
-[Random forest interpretation with scikit-learn | Diving into data](http://blog.datadive.net/random-forest-interpretation-with-scikit-learn/)
-(http://blog.datadive.net)
-
-[Interpreting random forests | Diving into data](http://blog.datadive.net/interpreting-random-forests/)
-(http://blog.datadive.net)
 
 [Causality in machine learning](http://www.unofficialgoogledatascience.com/2017/01/causality-in-machine-learning.html)
 (http://www.unofficialgoogledatascience.com)
@@ -660,6 +653,43 @@ This pages contains a export of my data science bookmarks folder. It is not upda
 [Model interpretability in Azure Machine Learning service - Azure Machine Learning | Microsoft Docs](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-machine-learning-interpretability)
 (https://docs.microsoft.com)
 
+### Shapley Values
+
+<img src="/data-science_bookmarks/assets/images/Data Science__Interpretability__Shapley Values_0.png" width="20" height="20"> [slundberg/shap: A unified approach to explain the output of any machine learning model.](https://github.com/slundberg/shap)
+(https://github.com)
+
+[redichh/ShapleyR: Package for a nice and smoothe usage of the shapley value for mlr](https://github.com/redichh/ShapleyR)
+(https://github.com)
+
+[Added support for Independent TreeSHAP by HughChen · Pull Request #290 · slundberg/shap · GitHub](https://github.com/slundberg/shap/pull/290)
+(https://github.com)
+
+[Explain individual predictions using SHAP value feature attributions by slundberg · Pull Request #825 · Microsoft/LightGBM · GitHub](https://github.com/Microsoft/LightGBM/pull/825)
+(https://github.com)
+
+[Interpretable Machine Learning with XGBoost – Towards Data Science](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
+(https://towardsdatascience.com)
+
+[One Feature Attribution Method to (Supposedly) Rule Them All: Shapley Values](https://towardsdatascience.com/one-feature-attribution-method-to-supposedly-rule-them-all-shapley-values-f3e04534983d)
+(https://towardsdatascience.com)
+
+[Interpreting complex models with SHAP values – Gabriel Tseng – Medium](https://medium.com/@gabrieltseng/interpreting-complex-models-with-shap-values-1c187db6ec83)
+(https://medium.com)
+
+[Demystifying Black-Box Models with SHAP Value Analysis](https://medium.com/civis-analytics/demystifying-black-box-models-with-shap-value-analysis-3e20b536fc80)
+(https://medium.com)
+
+[PyData Tel Aviv Meetup: SHAP Values for ML Explainability - Adi Watzman - YouTube](https://www.youtube.com/watch?v=0yXtdkIL3Xk)
+(https://www.youtube.com)
+
+### Prediction Decomposition
+
+[Random forest interpretation with scikit-learn | Diving into data](http://blog.datadive.net/random-forest-interpretation-with-scikit-learn/)
+(http://blog.datadive.net)
+
+[Interpreting random forests | Diving into data](http://blog.datadive.net/interpreting-random-forests/)
+(http://blog.datadive.net)
+
 ## Presentation Material
 
 <img src="/data-science_bookmarks/assets/images/Data Science__Presentation Material_0.png" width="20" height="20"> [ML Hipster on Twitter: "… and that concludes Machine Learning 101. Now, go forth and apply what you've learned to real data! http://t.co/D6wSKgdjeM"](https://twitter.com/ml_hipster/status/633954383542128640)
@@ -675,6 +705,9 @@ This pages contains a export of my data science bookmarks folder. It is not upda
 (https://twitter.com)
 
 ## Projects
+
+<img src="/data-science_bookmarks/assets/images/Data Science__Projects_0.png" width="20" height="20"> [jupyter_contrib_nbextensions/src/jupyter_contrib_nbextensions/nbextensions/varInspector at master · ipython-contrib/jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions/tree/master/src/jupyter_contrib_nbextensions/nbextensions/varInspector)
+(https://github.com)
 
 ### Betting
 
@@ -844,10 +877,19 @@ This pages contains a export of my data science bookmarks folder. It is not upda
 [Unveiling Mathematics behind XGBoost – Ajit Samudrala – Medium](https://medium.com/@samudralaajit/unveiling-mathematics-behind-xgboost-c7f1b8201e2a)
 (https://medium.com)
 
-<img src="/data-science_bookmarks/assets/images/Data Science__Projects_0.png" width="20" height="20"> [jupyter_contrib_nbextensions/src/jupyter_contrib_nbextensions/nbextensions/varInspector at master · ipython-contrib/jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions/tree/master/src/jupyter_contrib_nbextensions/nbextensions/varInspector)
-(https://github.com)
-
 ## Resources
+
+[MIT OpenCourseWare | Free Online Course Materials](http://ocw.mit.edu/index.htm)
+(http://ocw.mit.edu)
+
+[Stanford Engineering Everywhere | CS229 - Machine Learning](https://see.stanford.edu/Course/CS229)
+(https://see.stanford.edu)
+
+[Machine Learning  |  Google Developers](https://developers.google.com/machine-learning/glossary/?imm_mid=0f71ab&cmp=em-data-na-na-newsltr_20171011)
+(https://developers.google.com)
+
+[PyBites Code Challenges | Hone Your Python Skills](https://codechalleng.es/challenges/?next=/)
+(https://codechalleng.es)
 
 ### Collections
 
@@ -894,6 +936,48 @@ This pages contains a export of my data science bookmarks folder. It is not upda
 (https://awesome-python.com)
 
 ### Techniques
+
+[Kullback–Leibler divergence - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)
+(http://en.wikipedia.org)
+
+[Break the Markov Chains of Oppression: Modeling without MCMC - Data Bozo](http://www.databozo.com/break-the-markov-chains-of-oppression-modeling-without-mcmc)
+(http://www.databozo.com)
+
+[GLMM FAQ](http://bbolker.github.io/mixedmodels-misc/glmmFAQ.html)
+(http://bbolker.github.io)
+
+[How to deal with Features having high cardinality | Kaggle](https://www.kaggle.com/forums/f/15/kaggle-forum/t/16927/how-to-deal-with-features-having-high-cardinality)
+(https://www.kaggle.com)
+
+[Design Thinking for Data Scientists | George Roumeliotis | LinkedIn](https://www.linkedin.com/pulse/design-thinking-data-science-george-roumeliotis?utm_content=bufferd825a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+(https://www.linkedin.com)
+
+[Introduction to Latent Dirichlet Allocation](http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/)
+(http://blog.echen.me)
+
+[WWS 509](http://data.princeton.edu/wws509/datasets)
+(http://data.princeton.edu)
+
+[[1402.4293] The Random Forest Kernel and other kernels for big data from random partitions](https://arxiv.org/abs/1402.4293)
+(https://arxiv.org)
+
+[swager/randomForestCI: This package is DEPRECATED. Please use the package `grf` instead, which has built-in confidence intervals.](https://github.com/swager/randomForestCI)
+(https://github.com)
+
+[Spatial autocorrelation (introduction)](http://rstudio-pubs-static.s3.amazonaws.com/9688_a49c681fab974bbca889e3eae9fbb837.html)
+(http://rstudio-pubs-static.s3.amazonaws.com)
+
+[Spatial autocorrelation (modelling)](http://rstudio-pubs-static.s3.amazonaws.com/9687_cc323b60e5d542449563ff1142163f05.html)
+(http://rstudio-pubs-static.s3.amazonaws.com)
+
+[GitHub - partofthething/ace: Python package for performing the Alternating Conditional Expectation (ACE) regression](https://github.com/partofthething/ace)
+(https://github.com)
+
+[Zero-inflated model - Wikipedia](https://en.m.wikipedia.org/wiki/Zero-inflated_model)
+(https://en.m.wikipedia.org)
+
+<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques_0.png" width="20" height="20"> [GitHub - amueller/dabl: Data Analysis Baseline Library](https://github.com/amueller/dabl)
+(https://github.com)
 
 #### Anomaly Detection
 
@@ -1013,57 +1097,6 @@ This pages contains a export of my data science bookmarks folder. It is not upda
 (https://course.spacy.io)
 
 #### Neural Networks
-
-##### Generative Adverserial Networks
-
-<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Neural Networks__Generative Adverserial Networks_0.png" width="20" height="20"> [Generative Adversarial Networks – Key Milestones and State of the Art](https://www.kdnuggets.com/2019/04/future-generative-adversarial-networks.html)
-(https://www.kdnuggets.com)
-
-<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Neural Networks__Generative Adverserial Networks_1.png" width="20" height="20"> [Implementing SPADE using fastai – Towards Data Science](https://towardsdatascience.com/implementing-spade-using-fastai-6ad86b94030a)
-(https://towardsdatascience.com)
-
-<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Neural Networks__Generative Adverserial Networks_2.png" width="20" height="20"> [A Brief Introduction To GANs (and how to code them)](https://medium.com/sigmoid/a-brief-introduction-to-gans-and-how-to-code-them-2620ee465c30?mkt_tok=eyJpIjoiWXpjeU1qZzBZekZtWldJMyIsInQiOiJvTWlBeHdJcWhVaTNNeFRUMUJBcklqVkpmdFNWWDVoUzkwcmVISlwvZ21YeENKZGpDbkNzNDg3NUFDVWpBT1M1MG9CbGVZXC9tSVwvT3JxNjljUmJ0K1lFR2hTUE5qdVMyTitJNWVNTzgrNWJEc1IzaHM5YWltaHNIRlNTWmVCU0V1ZiJ9)
-(https://medium.com)
-
-##### Image Labelling
-
-<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Neural Networks__Image Labelling_0.png" width="20" height="20"> [fidler-lab/curve-gcn: Official PyTorch code for Curve-GCN (CVPR 2019)](https://github.com/fidler-lab/curve-gcn)
-(https://github.com)
-
-[Google AI Blog: Fluid Annotation: An Exploratory Machine Learning–Powered Interface for Faster Image Annotation](https://ai.googleblog.com/2018/10/fluid-annotation-exploratory-machine.html)
-(https://ai.googleblog.com)
-
-##### Long Short Term Memory
-
-[Multi-state LSTMs for categorical features – Towards Data Science – Medium](https://medium.com/@kwykedu/multi-state-lstms-for-categorical-features-66cc974df1dc)
-(https://medium.com)
-
-[Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/)
-(http://blog.echen.me)
-
-[Introduction to LSTMs with TensorFlow - O'Reilly Media](https://www.oreilly.com/ideas/introduction-to-lstms-with-tensorflow?imm_mid=0fa998&cmp=em-data-na-na-newsltr_ai_20180122)
-(https://www.oreilly.com)
-
-##### Recurrent Neural Networks
-
-[The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-(http://karpathy.github.io)
-
-[Understanding Recurrent Neural Networks: The Preferred Neural Network for Time-Series Data](https://medium.com/towards-data-science/understanding-recurrent-neural-networks-the-prefered-neural-network-for-time-series-data-7d856c21b759)
-(https://medium.com)
-
-##### Tensorflow
-
-[Visualizing TensorFlow Graphs in Jupyter Notebooks](https://blog.jakuba.net/2017/05/30/tensorflow-visualization.html?)
-(https://blog.jakuba.net)
-
-[The tools that make TensorFlow productive - O'Reilly Media](https://www.oreilly.com/ideas/the-tools-that-make-tensorflow-productive)
-(https://www.oreilly.com)
-
-##### Transfer Learning
-
-[22 Minutes to 2nd Place in a Kaggle Competition, with Deep Learning & Azure | Machine Learning Blog](https://blogs.technet.microsoft.com/machinelearning/2018/02/22/22-minutes-to-2nd-place-in-a-kaggle-competition-with-deep-learning-azure/)
-(https://blogs.technet.microsoft.com)
 
 [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
 (http://cs231n.github.io)
@@ -1233,21 +1266,58 @@ This pages contains a export of my data science bookmarks folder. It is not upda
 <img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Neural Networks_4.png" width="20" height="20"> [A 'Brief' History of Neural Nets and Deep Learning – Andrey Kurenkov's Web World](http://www.andreykurenkov.com/writing/ai/a-brief-history-of-neural-nets-and-deep-learning/)
 (http://www.andreykurenkov.com)
 
-#### Next Basket Recommendation
+##### Generative Adverserial Networks
 
-##### Factorisation Machines
+<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Neural Networks__Generative Adverserial Networks_0.png" width="20" height="20"> [Generative Adversarial Networks – Key Milestones and State of the Art](https://www.kdnuggets.com/2019/04/future-generative-adversarial-networks.html)
+(https://www.kdnuggets.com)
 
-[Field-aware Factorization Machines for CTR Prediction](http://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf)
-(http://www.csie.ntu.edu.tw)
+<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Neural Networks__Generative Adverserial Networks_1.png" width="20" height="20"> [Implementing SPADE using fastai – Towards Data Science](https://towardsdatascience.com/implementing-spade-using-fastai-6ad86b94030a)
+(https://towardsdatascience.com)
 
-[guestwalk/libffm: A Library for Field-aware Factorization Machines](https://github.com/guestwalk/libffm)
+<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Neural Networks__Generative Adverserial Networks_2.png" width="20" height="20"> [A Brief Introduction To GANs (and how to code them)](https://medium.com/sigmoid/a-brief-introduction-to-gans-and-how-to-code-them-2620ee465c30?mkt_tok=eyJpIjoiWXpjeU1qZzBZekZtWldJMyIsInQiOiJvTWlBeHdJcWhVaTNNeFRUMUJBcklqVkpmdFNWWDVoUzkwcmVISlwvZ21YeENKZGpDbkNzNDg3NUFDVWpBT1M1MG9CbGVZXC9tSVwvT3JxNjljUmJ0K1lFR2hTUE5qdVMyTitJNWVNTzgrNWJEc1IzaHM5YWltaHNIRlNTWmVCU0V1ZiJ9)
+(https://medium.com)
+
+##### Image Labelling
+
+<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques__Neural Networks__Image Labelling_0.png" width="20" height="20"> [fidler-lab/curve-gcn: Official PyTorch code for Curve-GCN (CVPR 2019)](https://github.com/fidler-lab/curve-gcn)
 (https://github.com)
 
-[LIBFFM: A Library for Field-aware Factorization Machines](https://www.csie.ntu.edu.tw/~cjlin/libffm/)
-(https://www.csie.ntu.edu.tw)
+[Google AI Blog: Fluid Annotation: An Exploratory Machine Learning–Powered Interface for Faster Image Annotation](https://ai.googleblog.com/2018/10/fluid-annotation-exploratory-machine.html)
+(https://ai.googleblog.com)
 
-[Data Piques | Matrix Factorization in PyTorch](http://blog.ethanrosenthal.com/2017/06/20/matrix-factorization-in-pytorch/)
-(http://blog.ethanrosenthal.com)
+##### Long Short Term Memory
+
+[Multi-state LSTMs for categorical features – Towards Data Science – Medium](https://medium.com/@kwykedu/multi-state-lstms-for-categorical-features-66cc974df1dc)
+(https://medium.com)
+
+[Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/)
+(http://blog.echen.me)
+
+[Introduction to LSTMs with TensorFlow - O'Reilly Media](https://www.oreilly.com/ideas/introduction-to-lstms-with-tensorflow?imm_mid=0fa998&cmp=em-data-na-na-newsltr_ai_20180122)
+(https://www.oreilly.com)
+
+##### Recurrent Neural Networks
+
+[The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+(http://karpathy.github.io)
+
+[Understanding Recurrent Neural Networks: The Preferred Neural Network for Time-Series Data](https://medium.com/towards-data-science/understanding-recurrent-neural-networks-the-prefered-neural-network-for-time-series-data-7d856c21b759)
+(https://medium.com)
+
+##### Tensorflow
+
+[Visualizing TensorFlow Graphs in Jupyter Notebooks](https://blog.jakuba.net/2017/05/30/tensorflow-visualization.html?)
+(https://blog.jakuba.net)
+
+[The tools that make TensorFlow productive - O'Reilly Media](https://www.oreilly.com/ideas/the-tools-that-make-tensorflow-productive)
+(https://www.oreilly.com)
+
+##### Transfer Learning
+
+[22 Minutes to 2nd Place in a Kaggle Competition, with Deep Learning & Azure | Machine Learning Blog](https://blogs.technet.microsoft.com/machinelearning/2018/02/22/22-minutes-to-2nd-place-in-a-kaggle-competition-with-deep-learning-azure/)
+(https://blogs.technet.microsoft.com)
+
+#### Next Basket Recommendation
 
 [Learning Hierarchical Representation Model for NextBasket Recommendation](https://pdfs.semanticscholar.org/3be2/609d565f436611090bf5201f73543b3d0610.pdf)
 (https://pdfs.semanticscholar.org)
@@ -1269,6 +1339,20 @@ This pages contains a export of my data science bookmarks folder. It is not upda
 
 [Guillaume Allain - Recommender systems with Tensorflow - YouTube](https://www.youtube.com/watch?v=vaJOlKxyKhA)
 (https://www.youtube.com)
+
+##### Factorisation Machines
+
+[Field-aware Factorization Machines for CTR Prediction](http://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf)
+(http://www.csie.ntu.edu.tw)
+
+[guestwalk/libffm: A Library for Field-aware Factorization Machines](https://github.com/guestwalk/libffm)
+(https://github.com)
+
+[LIBFFM: A Library for Field-aware Factorization Machines](https://www.csie.ntu.edu.tw/~cjlin/libffm/)
+(https://www.csie.ntu.edu.tw)
+
+[Data Piques | Matrix Factorization in PyTorch](http://blog.ethanrosenthal.com/2017/06/20/matrix-factorization-in-pytorch/)
+(http://blog.ethanrosenthal.com)
 
 #### Outliers
 
@@ -1382,117 +1466,27 @@ This pages contains a export of my data science bookmarks folder. It is not upda
 [How to do uplift modeling in Dataiku | Dataiku](https://www.dataiku.com/dss/samples/info/uplift-modelling.html)
 (https://www.dataiku.com)
 
-[Kullback–Leibler divergence - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)
-(http://en.wikipedia.org)
-
-[Break the Markov Chains of Oppression: Modeling without MCMC - Data Bozo](http://www.databozo.com/break-the-markov-chains-of-oppression-modeling-without-mcmc)
-(http://www.databozo.com)
-
-[GLMM FAQ](http://bbolker.github.io/mixedmodels-misc/glmmFAQ.html)
-(http://bbolker.github.io)
-
-[How to deal with Features having high cardinality | Kaggle](https://www.kaggle.com/forums/f/15/kaggle-forum/t/16927/how-to-deal-with-features-having-high-cardinality)
-(https://www.kaggle.com)
-
-[Design Thinking for Data Scientists | George Roumeliotis | LinkedIn](https://www.linkedin.com/pulse/design-thinking-data-science-george-roumeliotis?utm_content=bufferd825a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-(https://www.linkedin.com)
-
-[Introduction to Latent Dirichlet Allocation](http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/)
-(http://blog.echen.me)
-
-[WWS 509](http://data.princeton.edu/wws509/datasets)
-(http://data.princeton.edu)
-
-[[1402.4293] The Random Forest Kernel and other kernels for big data from random partitions](https://arxiv.org/abs/1402.4293)
-(https://arxiv.org)
-
-[swager/randomForestCI: This package is DEPRECATED. Please use the package `grf` instead, which has built-in confidence intervals.](https://github.com/swager/randomForestCI)
-(https://github.com)
-
-[Spatial autocorrelation (introduction)](http://rstudio-pubs-static.s3.amazonaws.com/9688_a49c681fab974bbca889e3eae9fbb837.html)
-(http://rstudio-pubs-static.s3.amazonaws.com)
-
-[Spatial autocorrelation (modelling)](http://rstudio-pubs-static.s3.amazonaws.com/9687_cc323b60e5d542449563ff1142163f05.html)
-(http://rstudio-pubs-static.s3.amazonaws.com)
-
-[GitHub - partofthething/ace: Python package for performing the Alternating Conditional Expectation (ACE) regression](https://github.com/partofthething/ace)
-(https://github.com)
-
-[Zero-inflated model - Wikipedia](https://en.m.wikipedia.org/wiki/Zero-inflated_model)
-(https://en.m.wikipedia.org)
-
-<img src="/data-science_bookmarks/assets/images/Data Science__Resources__Techniques_0.png" width="20" height="20"> [GitHub - amueller/dabl: Data Analysis Baseline Library](https://github.com/amueller/dabl)
-(https://github.com)
-
-[MIT OpenCourseWare | Free Online Course Materials](http://ocw.mit.edu/index.htm)
-(http://ocw.mit.edu)
-
-[Stanford Engineering Everywhere | CS229 - Machine Learning](https://see.stanford.edu/Course/CS229)
-(https://see.stanford.edu)
-
-[Machine Learning  |  Google Developers](https://developers.google.com/machine-learning/glossary/?imm_mid=0f71ab&cmp=em-data-na-na-newsltr_20171011)
-(https://developers.google.com)
-
-[PyBites Code Challenges | Hone Your Python Skills](https://codechalleng.es/challenges/?next=/)
-(https://codechalleng.es)
-
 ## Software
 
+[Pyro](http://pyro.ai/)
+(http://pyro.ai)
+
+[GitHub - opencv/opencv: Open Source Computer Vision Library](https://github.com/opencv/opencv)
+(https://github.com)
+
+[Deeplearning4j: Open-source, Distributed Deep Learning for the JVM](https://deeplearning4j.org/index.html)
+(https://deeplearning4j.org)
+
+[deeplearn.js](https://pair-code.github.io/deeplearnjs/)
+(https://pair-code.github.io)
+
+[gluon-api/gluon-api: A clear, concise, simple yet powerful and efficient API for deep learning.](https://github.com/gluon-api/gluon-api/?imm_mid=0f75dc&cmp=em-data-na-na-newsltr_ai_20171023)
+(https://github.com)
+
+[explosion/lightnet: 🌓 Bringing pjreddie's DarkNet out of the shadows #yolo](https://github.com/explosion/lightnet)
+(https://github.com)
+
 ### R
-
-#### data.table
-
-[Advanced tips and tricks with data.table – andrew brooks](http://brooksandrew.github.io/simpleblog/articles/advanced-data-table/)
-(http://brooksandrew.github.io)
-
-[data+table+cheat+sheet.pdf](https://s3.amazonaws.com/assets.datacamp.com/img/blog/data+table+cheat+sheet.pdf)
-(https://s3.amazonaws.com)
-
-#### tidyverse
-
-[Switching from Base R to tidyverse](http://www.significantdigits.org/2017/10/switching-from-base-r-to-tidyverse/?utm_content=bufferd12ac&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-(http://www.significantdigits.org)
-
-[tibble 1.0.0 | RStudio Blog](https://blog.rstudio.org/2016/03/24/tibble-1-0-0/)
-(https://blog.rstudio.org)
-
-[RPubs - Programming with dplyr](https://rpubs.com/hadley/dplyr-programming)
-(https://rpubs.com)
-
-[gentle non-standard evaluation in dplyr 0.6 · alexpghayes](https://alexpghayes.github.io/2017/gentle-non-standard-evaluation-in-dplyr-0-6/?utm_content=buffer56ad4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-(https://alexpghayes.github.io)
-
-[Lesser known purrr tricks - Econometrics and Free Software](http://www.brodrigues.co/blog/2017-03-24-lesser_known_purrr/)
-(http://www.brodrigues.co)
-
-[Lessons and Examples](https://jennybc.github.io/purrr-tutorial/index.html)
-(https://jennybc.github.io)
-
-[Programming with dplyr • dplyr](http://dplyr.tidyverse.org/articles/programming.html)
-(http://dplyr.tidyverse.org)
-
-[Using purrr to refactor imperative code - A blog about math and programming](https://eric.netlify.com/2017/08/24/using-purrr-to-refactor-imperative-code/)
-(https://eric.netlify.com)
-
-[tidyeval resource roundup · Mara Averick](http://maraaverick.rbind.io/2017/08/tidyeval-resource-roundup/)
-(http://maraaverick.rbind.io)
-
-[r - Why use purrr::map instead of lapply? - Stack Overflow](https://stackoverflow.com/questions/45101045/why-use-purrrmap-instead-of-lapply/47123420#47123420)
-(https://stackoverflow.com)
-
-#### Package Development
-
-[Tooling for R package development](https://recology.info/2017/06/package-dev/?utm_content=buffer5fb05&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-(https://recology.info)
-
-[How to make and share an R package in 3 steps | DataScience+](https://datascienceplus.com/how-to-make-and-share-an-r-package-in-3-steps/)
-(https://datascienceplus.com)
-
-[RPubs - Automatic tools for improving R packages](http://rpubs.com/masalmon/rugbcn_20170613_improve_pkg)
-(http://rpubs.com)
-
-[Welcome · R packages](http://r-pkgs.had.co.nz/)
-(http://r-pkgs.had.co.nz)
 
 [Welcome · Advanced R.](http://adv-r.had.co.nz/)
 (http://adv-r.had.co.nz)
@@ -1566,18 +1560,61 @@ This pages contains a export of my data science bookmarks folder. It is not upda
 [drat: drat R Archive Template](http://dirk.eddelbuettel.com/code/drat.html)
 (http://dirk.eddelbuettel.com)
 
+#### data.table
+
+[Advanced tips and tricks with data.table – andrew brooks](http://brooksandrew.github.io/simpleblog/articles/advanced-data-table/)
+(http://brooksandrew.github.io)
+
+[data+table+cheat+sheet.pdf](https://s3.amazonaws.com/assets.datacamp.com/img/blog/data+table+cheat+sheet.pdf)
+(https://s3.amazonaws.com)
+
+#### tidyverse
+
+[Switching from Base R to tidyverse](http://www.significantdigits.org/2017/10/switching-from-base-r-to-tidyverse/?utm_content=bufferd12ac&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+(http://www.significantdigits.org)
+
+[tibble 1.0.0 | RStudio Blog](https://blog.rstudio.org/2016/03/24/tibble-1-0-0/)
+(https://blog.rstudio.org)
+
+[RPubs - Programming with dplyr](https://rpubs.com/hadley/dplyr-programming)
+(https://rpubs.com)
+
+[gentle non-standard evaluation in dplyr 0.6 · alexpghayes](https://alexpghayes.github.io/2017/gentle-non-standard-evaluation-in-dplyr-0-6/?utm_content=buffer56ad4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+(https://alexpghayes.github.io)
+
+[Lesser known purrr tricks - Econometrics and Free Software](http://www.brodrigues.co/blog/2017-03-24-lesser_known_purrr/)
+(http://www.brodrigues.co)
+
+[Lessons and Examples](https://jennybc.github.io/purrr-tutorial/index.html)
+(https://jennybc.github.io)
+
+[Programming with dplyr • dplyr](http://dplyr.tidyverse.org/articles/programming.html)
+(http://dplyr.tidyverse.org)
+
+[Using purrr to refactor imperative code - A blog about math and programming](https://eric.netlify.com/2017/08/24/using-purrr-to-refactor-imperative-code/)
+(https://eric.netlify.com)
+
+[tidyeval resource roundup · Mara Averick](http://maraaverick.rbind.io/2017/08/tidyeval-resource-roundup/)
+(http://maraaverick.rbind.io)
+
+[r - Why use purrr::map instead of lapply? - Stack Overflow](https://stackoverflow.com/questions/45101045/why-use-purrrmap-instead-of-lapply/47123420#47123420)
+(https://stackoverflow.com)
+
+#### Package Development
+
+[Tooling for R package development](https://recology.info/2017/06/package-dev/?utm_content=buffer5fb05&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+(https://recology.info)
+
+[How to make and share an R package in 3 steps | DataScience+](https://datascienceplus.com/how-to-make-and-share-an-r-package-in-3-steps/)
+(https://datascienceplus.com)
+
+[RPubs - Automatic tools for improving R packages](http://rpubs.com/masalmon/rugbcn_20170613_improve_pkg)
+(http://rpubs.com)
+
+[Welcome · R packages](http://r-pkgs.had.co.nz/)
+(http://r-pkgs.had.co.nz)
+
 ### Python
-
-#### Concurrency
-
-<img src="/data-science_bookmarks/assets/images/Data Science__Software__Python__Concurrency_0.png" width="20" height="20"> [Python 3 Concurrency – The concurrent.futures Module | The Mouse Vs. The Python](https://www.blog.pythonlibrary.org/2016/08/03/python-3-concurrency-the-concurrent-futures-module/)
-(https://www.blog.pythonlibrary.org)
-
-<img src="/data-science_bookmarks/assets/images/Data Science__Software__Python__Concurrency_1.png" width="20" height="20"> [Here’s how you can get a 2–6x speed-up on your data pre-processing with Python](https://towardsdatascience.com/heres-how-you-can-get-a-2-6x-speed-up-on-your-data-pre-processing-with-python-847887e63be5)
-(https://towardsdatascience.com)
-
-<img src="/data-science_bookmarks/assets/images/Data Science__Software__Python__Concurrency_2.png" width="20" height="20"> [Intro to Threads and Processes in Python – Brendan Fortuner – Medium](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b)
-(https://medium.com)
 
 [A Whirlwind Tour of Python | A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_145)
 (https://jakevdp.github.io)
@@ -1621,6 +1658,17 @@ This pages contains a export of my data science bookmarks folder. It is not upda
 [hchasestevens.github.io/the-decorators-they-wont-tell-you-about.ipynb at master · hchasestevens/hchasestevens.github.io · GitHub](https://github.com/hchasestevens/hchasestevens.github.io/blob/master/notebooks/the-decorators-they-wont-tell-you-about.ipynb?imm_mid=0fa6e9&cmp=em-prog-na-na-newsltr_20180113)
 (https://github.com)
 
+#### Concurrency
+
+<img src="/data-science_bookmarks/assets/images/Data Science__Software__Python__Concurrency_0.png" width="20" height="20"> [Python 3 Concurrency – The concurrent.futures Module | The Mouse Vs. The Python](https://www.blog.pythonlibrary.org/2016/08/03/python-3-concurrency-the-concurrent-futures-module/)
+(https://www.blog.pythonlibrary.org)
+
+<img src="/data-science_bookmarks/assets/images/Data Science__Software__Python__Concurrency_1.png" width="20" height="20"> [Here’s how you can get a 2–6x speed-up on your data pre-processing with Python](https://towardsdatascience.com/heres-how-you-can-get-a-2-6x-speed-up-on-your-data-pre-processing-with-python-847887e63be5)
+(https://towardsdatascience.com)
+
+<img src="/data-science_bookmarks/assets/images/Data Science__Software__Python__Concurrency_2.png" width="20" height="20"> [Intro to Threads and Processes in Python – Brendan Fortuner – Medium](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b)
+(https://medium.com)
+
 #### Packaging
 
 <img src="/data-science_bookmarks/assets/images/Data Science__Software__Python__Packaging_0.png" width="20" height="20"> [https://blog.easyaspy.org/post/14/2019-05-05-how-to-submit-a-package-to-pypi?utm_source=share&utm_medium=ios_app](https://blog.easyaspy.org/post/14/2019-05-05-how-to-submit-a-package-to-pypi?utm_source=share&utm_medium=ios_app)
@@ -1633,17 +1681,6 @@ This pages contains a export of my data science bookmarks folder. It is not upda
 (https://python-packaging-tutorial.readthedocs.io)
 
 ### Git
-
-#### Github
-
-[GitHub vs GitLab detailed comparison as of 2017 - Slant](https://www.slant.co/versus/532/4860/~github_vs_gitlab)
-(https://www.slant.co)
-
-[Migrating from GitHub to GitLab with RStudio (Tutorial)](https://shiring.github.io/tutorials/2017/09/04/migrating_github_gitlab?utm_content=buffer27770&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-(https://shiring.github.io)
-
-[Happy Git and GitHub for the useR](http://happygitwithr.com/)
-(http://happygitwithr.com)
 
 [Git - Reference](https://git-scm.com/docs)
 (https://git-scm.com)
@@ -1711,30 +1748,38 @@ This pages contains a export of my data science bookmarks folder. It is not upda
 <img src="/data-science_bookmarks/assets/images/Data Science__Software__Git_0.png" width="20" height="20"> [How to find stuff in Git – Ty Walls – Medium](https://medium.com/@tygertec/how-to-find-stuff-in-git-35d4cb8c1845?mkt_tok=eyJpIjoiTURjM05tRXlNRGs1WmpVdyIsInQiOiJxUWZteFYyU3hcL0hqTmttXC8ydFZrdjRFQ3FEaWh6ckxLQlpvS050RlM5RG45aUZvV1J5WFk4N3Ftd2JGZ241MU5OZnVmTzRcLzNpcE9sTGJFcHFHT2JxQjh2ZjZGSlQxaHJPSWtReW9KRVdOdW85eTdvYlgxNXBMQjdPVXNaN1pZdCJ9)
 (https://medium.com)
 
+#### Github
+
+[GitHub vs GitLab detailed comparison as of 2017 - Slant](https://www.slant.co/versus/532/4860/~github_vs_gitlab)
+(https://www.slant.co)
+
+[Migrating from GitHub to GitLab with RStudio (Tutorial)](https://shiring.github.io/tutorials/2017/09/04/migrating_github_gitlab?utm_content=buffer27770&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+(https://shiring.github.io)
+
+[Happy Git and GitHub for the useR](http://happygitwithr.com/)
+(http://happygitwithr.com)
+
 ### RStudio
 
 [Debugging with RStudio – RStudio Support](https://support.rstudio.com/hc/en-us/articles/205612627-Debugging-with-RStudio)
 (https://support.rstudio.com)
 
-[Pyro](http://pyro.ai/)
-(http://pyro.ai)
-
-[GitHub - opencv/opencv: Open Source Computer Vision Library](https://github.com/opencv/opencv)
-(https://github.com)
-
-[Deeplearning4j: Open-source, Distributed Deep Learning for the JVM](https://deeplearning4j.org/index.html)
-(https://deeplearning4j.org)
-
-[deeplearn.js](https://pair-code.github.io/deeplearnjs/)
-(https://pair-code.github.io)
-
-[gluon-api/gluon-api: A clear, concise, simple yet powerful and efficient API for deep learning.](https://github.com/gluon-api/gluon-api/?imm_mid=0f75dc&cmp=em-data-na-na-newsltr_ai_20171023)
-(https://github.com)
-
-[explosion/lightnet: 🌓 Bringing pjreddie's DarkNet out of the shadows #yolo](https://github.com/explosion/lightnet)
-(https://github.com)
-
 ## Software Development
+
+[Installation and usage — Black 19.3b0 documentation](https://black.readthedocs.io/en/stable/installation_and_usage.html)
+(https://black.readthedocs.io)
+
+[mypy - Optional Static Typing for Python](http://www.mypy-lang.org/)
+(http://www.mypy-lang.org)
+
+[Welcome to Hypothesis! — Hypothesis 4.26.3 documentation](https://hypothesis.readthedocs.io/en/latest/)
+(https://hypothesis.readthedocs.io)
+
+[The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation](https://docs.quantifiedcode.com/python-anti-patterns/)
+(https://docs.quantifiedcode.com)
+
+<img src="/data-science_bookmarks/assets/images/Data Science__Software Development_0.png" width="20" height="20"> [Aleksey Bilogur— Blog](https://www.residentmar.io/2019/07/07/python-mixins.html)
+(https://www.residentmar.io)
 
 ### Open Sourcing Packages
 
@@ -1754,22 +1799,37 @@ This pages contains a export of my data science bookmarks folder. It is not upda
 <img src="/data-science_bookmarks/assets/images/Data Science__Software Development__Open Sourcing Packages__Example Organisations_0.png" width="20" height="20"> [MoJ Analytical Services](https://github.com/moj-analytical-services)
 (https://github.com)
 
-[Installation and usage — Black 19.3b0 documentation](https://black.readthedocs.io/en/stable/installation_and_usage.html)
-(https://black.readthedocs.io)
-
-[mypy - Optional Static Typing for Python](http://www.mypy-lang.org/)
-(http://www.mypy-lang.org)
-
-[Welcome to Hypothesis! — Hypothesis 4.26.3 documentation](https://hypothesis.readthedocs.io/en/latest/)
-(https://hypothesis.readthedocs.io)
-
-[The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation](https://docs.quantifiedcode.com/python-anti-patterns/)
-(https://docs.quantifiedcode.com)
-
-<img src="/data-science_bookmarks/assets/images/Data Science__Software Development_0.png" width="20" height="20"> [Aleksey Bilogur— Blog](https://www.residentmar.io/2019/07/07/python-mixins.html)
-(https://www.residentmar.io)
-
 ## Top-Tips
+
+[Rules of Machine Learning:  |  Google Developers](https://developers.google.com/machine-learning/rules-of-ml/)
+(https://developers.google.com)
+
+[Machine Learning:The High-Interest Credit Card of Technical Debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
+(https://static.googleusercontent.com)
+
+[What’s your ML test score? A rubric for ML production systems](https://research.google.com/pubs/pub45742.html)
+(https://research.google.com)
+
+[Research Blog: The reusable holdout: Preserving validity in adaptive data analysis](https://research.googleblog.com/2015/08/the-reusable-holdout-preserving.html?m=1)
+(https://research.googleblog.com)
+
+[Kyle McDonald on Twitter: "recently i've been using these histograms of positive and negative classifications instead of ROC curves to understand my classifiers. is there a name for this?… https://t.co/o1g7XrYkIo"](https://twitter.com/kcimc/status/938114831466479616)
+(https://twitter.com)
+
+[Welcome to the marbles documentation! — marbles 0.10.0 documentation](https://marbles.readthedocs.io/en/stable/)
+(https://marbles.readthedocs.io)
+
+[using-weights-in-stata.pdf](http://www.parisschoolofeconomics.eu/docs/dupraz-yannick/using-weights-in-stata(1).pdf)
+(http://www.parisschoolofeconomics.eu)
+
+[Manifold: A Model-Agnostic Visual Debugging Tool for Machine Learning at Uber | Uber Engineering Blog](https://eng.uber.com/manifold/)
+(https://eng.uber.com)
+
+[Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/encoding-categorical-predictors.html#encodings-for-ordered-data)
+(http://www.feat.engineering)
+
+[Cecile Janssens on Twitter: "The area under the ROC curve (AUC) is so frequently criticized and misunderstood that I often wonder whether I am the metric’s only fan. Let me explain why how I see and value the AUC. (thread)… https://t.co/CoC6K312zQ"](https://twitter.com/cecilejanssens/status/1104134423673479169)
+(https://twitter.com)
 
 ### AB Testing
 
@@ -1918,36 +1978,6 @@ This pages contains a export of my data science bookmarks folder. It is not upda
 <img src="/data-science_bookmarks/assets/images/Data Science__Top-Tips__Weighted Percentile_1.png" width="20" height="20"> [Percentile - Wikipedia](https://en.wikipedia.org/wiki/Percentile#The_weighted_percentile_method)
 (https://en.wikipedia.org)
 
-[Rules of Machine Learning:  |  Google Developers](https://developers.google.com/machine-learning/rules-of-ml/)
-(https://developers.google.com)
-
-[Machine Learning:The High-Interest Credit Card of Technical Debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
-(https://static.googleusercontent.com)
-
-[What’s your ML test score? A rubric for ML production systems](https://research.google.com/pubs/pub45742.html)
-(https://research.google.com)
-
-[Research Blog: The reusable holdout: Preserving validity in adaptive data analysis](https://research.googleblog.com/2015/08/the-reusable-holdout-preserving.html?m=1)
-(https://research.googleblog.com)
-
-[Kyle McDonald on Twitter: "recently i've been using these histograms of positive and negative classifications instead of ROC curves to understand my classifiers. is there a name for this?… https://t.co/o1g7XrYkIo"](https://twitter.com/kcimc/status/938114831466479616)
-(https://twitter.com)
-
-[Welcome to the marbles documentation! — marbles 0.10.0 documentation](https://marbles.readthedocs.io/en/stable/)
-(https://marbles.readthedocs.io)
-
-[using-weights-in-stata.pdf](http://www.parisschoolofeconomics.eu/docs/dupraz-yannick/using-weights-in-stata(1).pdf)
-(http://www.parisschoolofeconomics.eu)
-
-[Manifold: A Model-Agnostic Visual Debugging Tool for Machine Learning at Uber | Uber Engineering Blog](https://eng.uber.com/manifold/)
-(https://eng.uber.com)
-
-[Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/encoding-categorical-predictors.html#encodings-for-ordered-data)
-(http://www.feat.engineering)
-
-[Cecile Janssens on Twitter: "The area under the ROC curve (AUC) is so frequently criticized and misunderstood that I often wonder whether I am the metric’s only fan. Let me explain why how I see and value the AUC. (thread)… https://t.co/CoC6K312zQ"](https://twitter.com/cecilejanssens/status/1104134423673479169)
-(https://twitter.com)
-
 ## Training
 
 [Secure and Private AI | Udacity](https://eu.udacity.com/course/secure-and-private-ai--ud185)
@@ -1966,6 +1996,12 @@ This pages contains a export of my data science bookmarks folder. It is not upda
 (https://classroom.udacity.com)
 
 ## Uncertainty
+
+[Propagation of uncertainty - Wikipedia](https://en.wikipedia.org/wiki/Propagation_of_uncertainty)
+(https://en.wikipedia.org)
+
+[TensorFlow for R: Adding uncertainty estimates to Keras models with tfprobability](https://blogs.rstudio.com/tensorflow/posts/2019-06-05-uncertainty-estimates-tfprobability/)
+(https://blogs.rstudio.com)
 
 ### Conformal Interval
 
@@ -1990,12 +2026,6 @@ This pages contains a export of my data science bookmarks folder. It is not upda
 <img src="/data-science_bookmarks/assets/images/Data Science__Uncertainty__Conformal Interval_2.png" width="20" height="20"> [Maria Navarro: Quantifying uncertainty in Machine Learning predictions | PyData London 2019 - YouTube](https://www.youtube.com/watch?v=r6bhm_A-YcQ)
 (https://www.youtube.com)
 
-[Propagation of uncertainty - Wikipedia](https://en.wikipedia.org/wiki/Propagation_of_uncertainty)
-(https://en.wikipedia.org)
-
-[TensorFlow for R: Adding uncertainty estimates to Keras models with tfprobability](https://blogs.rstudio.com/tensorflow/posts/2019-06-05-uncertainty-estimates-tfprobability/)
-(https://blogs.rstudio.com)
-
 ## Workflow Management
 
 [GitHub - allegroai/trains: TRAINS - Auto-Magical Experiment Manager & Version Control for AI](https://github.com/allegroai/trains)
@@ -2003,34 +2033,4 @@ This pages contains a export of my data science bookmarks folder. It is not upda
 
 <img src="/data-science_bookmarks/assets/images/Data Science__Workflow Management_0.png" width="20" height="20"> [GitHub - danijar/handout: Turn Python scripts into handouts with Markdown and figures](https://github.com/danijar/handout)
 (https://github.com)
-
-<img src="/data-science_bookmarks/assets/images/Data Science_0.png" width="20" height="20"> [GitHub](https://github.com/)
-(https://github.com)
-
-[Projects · Dashboard · GitLab](https://gitlab.com/)
-(https://gitlab.com)
-
-[g.co/colab](https://g.co/colab)
-(https://g.co)
-
-[Microsoft Azure Notebooks](https://notebooks.azure.com/)
-(https://notebooks.azure.com)
-
-<img src="/data-science_bookmarks/assets/images/Data Science_1.png" width="20" height="20"> [Kaggle: Go from Big Data to Big Analytics](http://www.kaggle.com/)
-(http://www.kaggle.com)
-
-[Machine Learning](https://www.reddit.com/r/MachineLearning/)
-(https://www.reddit.com)
-
-[arXiv.org | Machine Learning authors/titles recent submissions](https://arxiv.org/list/stat.ML/recent)
-(https://arxiv.org)
-
-[Google Open Source – opensource.google.com](https://opensource.google.com/?imm_mid=0efb22&cmp=em-prog-na-na-newsltr_20170401)
-(https://opensource.google.com)
-
-[Home Page - aigaming.com](https://www.aigaming.com/)
-(https://www.aigaming.com)
-
-[OS OpenData Supply - Download or order OS OpenData](https://www.ordnancesurvey.co.uk/opendatadownload/products.html#TERR50)
-(https://www.ordnancesurvey.co.uk)
 
