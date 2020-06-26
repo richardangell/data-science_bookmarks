@@ -14,6 +14,8 @@ def update_site_files(html_bookmark_export_file):
 
     data_science_bookmarks = parser.parse_bookmarks_wrapper(html_bookmark_export_file)
 
+    data_science_bookmarks = remove_folders(data_science_bookmarks, ['Projects'])
+
     clear_icons()
 
     export_bookmark_icons(data_science_bookmarks, ['Data Science'])
@@ -23,6 +25,22 @@ def update_site_files(html_bookmark_export_file):
     write_navigation_yml(data_science_bookmarks)
 
     return data_science_bookmarks
+
+
+def remove_folders(bookmarks, folders):
+    """Function to remove top level folders from bookmarks."""
+
+    for i, item in enumerate(bookmarks['Data Science']):
+
+        if type(item) is dict:
+
+            folder_name = list(item.keys())[0]
+
+            if folder_name in folders:
+
+                del bookmarks['Data Science'][i]
+
+    return bookmarks
 
 
 
