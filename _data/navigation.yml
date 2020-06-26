@@ -13,10 +13,24 @@ bookmarks-sidebar:
     children:
       - title: "00 Readlist"
         url: /bookmarks/#00-readlist
-      - title: "Best"
-        url: /bookmarks/#best
-      - title: "Watchlist"
-        url: /bookmarks/#watchlist
+      - title: "00 Best"
+        url: /bookmarks/#00-best
+      - title: "Bayesian Modelling"
+        url: /bookmarks/#bayesian-modelling
+      - title: "Bias & Interpretability"
+        url: /bookmarks/#bias-&-interpretability
+      - title: "Model Monitoring"
+        url: /bookmarks/#model-monitoring
+      - title: "NLP"
+        url: /bookmarks/#nlp
+      - title: "Survival Modelling"
+        url: /bookmarks/#survival-modelling
+      - title: "Time Series"
+        url: /bookmarks/#time-series
+  - title: "00 Watchlist"
+    children:
+      - title: "00 Watchlist"
+        url: /bookmarks/#00-watchlist
   - title: "Blogs"
     children:
       - title: "Blogs"
@@ -33,6 +47,10 @@ bookmarks-sidebar:
     children:
       - title: "Ethics and Fairness"
         url: /bookmarks/#ethics-and-fairness
+  - title: "Humour"
+    children:
+      - title: "Humour"
+        url: /bookmarks/#humour
   - title: "Interpretability"
     children:
       - title: "Interpretability"
@@ -41,38 +59,36 @@ bookmarks-sidebar:
         url: /bookmarks/#shapley-values
       - title: "Prediction Decomposition"
         url: /bookmarks/#prediction-decomposition
-  - title: "Presentation Material"
-    children:
-      - title: "Presentation Material"
-        url: /bookmarks/#presentation-material
-  - title: "Projects"
-    children:
-      - title: "Projects"
-        url: /bookmarks/#projects
-      - title: "Betting"
-        url: /bookmarks/#betting
-      - title: "Dog Monitor"
-        url: /bookmarks/#dog-monitor
-      - title: "Juypter button extension"
-        url: /bookmarks/#juypter-button-extension
-      - title: "Kaggle"
-        url: /bookmarks/#kaggle
-      - title: "TensorFlow Speech Recognition"
-        url: /bookmarks/#tensorflow-speech-recognition
-      - title: "Instacart"
-        url: /bookmarks/#instacart
-      - title: "Neural Network Important Pixels"
-        url: /bookmarks/#neural-network-important-pixels
-      - title: "Sequence Trees"
-        url: /bookmarks/#sequence-trees
-      - title: "Xgboost node predictions"
-        url: /bookmarks/#xgboost-node-predictions
   - title: "Resources"
     children:
       - title: "Resources"
         url: /bookmarks/#resources
-      - title: "Collections"
-        url: /bookmarks/#collections
+  - title: "Software"
+    children:
+      - title: "Software"
+        url: /bookmarks/#software
+      - title: "Python"
+        url: /bookmarks/#python
+      - title: "Concurrency"
+        url: /bookmarks/#concurrency
+      - title: "Packaging"
+        url: /bookmarks/#packaging
+      - title: "Git"
+        url: /bookmarks/#git
+  - title: "Software Development"
+    children:
+      - title: "Software Development"
+        url: /bookmarks/#software-development
+      - title: "Testing"
+        url: /bookmarks/#testing
+      - title: "Open Sourcing Packages"
+        url: /bookmarks/#open-sourcing-packages
+      - title: "Developer Contributions"
+        url: /bookmarks/#developer-contributions
+      - title: "Example Organisations"
+        url: /bookmarks/#example-organisations
+  - title: "Techniques"
+    children:
       - title: "Techniques"
         url: /bookmarks/#techniques
       - title: "Anomaly Detection"
@@ -127,54 +143,14 @@ bookmarks-sidebar:
         url: /bookmarks/#time-series
       - title: "Uplift Modelling"
         url: /bookmarks/#uplift-modelling
-  - title: "Software"
-    children:
-      - title: "Software"
-        url: /bookmarks/#software
-      - title: "R"
-        url: /bookmarks/#r
-      - title: "data.table"
-        url: /bookmarks/#data.table
-      - title: "tidyverse"
-        url: /bookmarks/#tidyverse
-      - title: "Package Development"
-        url: /bookmarks/#package-development
-      - title: "Python"
-        url: /bookmarks/#python
-      - title: "Concurrency"
-        url: /bookmarks/#concurrency
-      - title: "Packaging"
-        url: /bookmarks/#packaging
-      - title: "Git"
-        url: /bookmarks/#git
-      - title: "Github"
-        url: /bookmarks/#github
-      - title: "RStudio"
-        url: /bookmarks/#rstudio
-  - title: "Software Development"
-    children:
-      - title: "Software Development"
-        url: /bookmarks/#software-development
-      - title: "Open Sourcing Packages"
-        url: /bookmarks/#open-sourcing-packages
-      - title: "Developer Contributions"
-        url: /bookmarks/#developer-contributions
-      - title: "Example Organisations"
-        url: /bookmarks/#example-organisations
   - title: "Top-Tips"
     children:
       - title: "Top-Tips"
         url: /bookmarks/#top-tips
       - title: "AB Testing"
         url: /bookmarks/#ab-testing
-      - title: "Model Monitoring"
-        url: /bookmarks/#model-monitoring
-      - title: "Notebooks x Git"
-        url: /bookmarks/#notebooks-x-git
       - title: "Packaging"
         url: /bookmarks/#packaging
-      - title: "Production"
-        url: /bookmarks/#production
       - title: "Statistics"
         url: /bookmarks/#statistics
       - title: "Team"
